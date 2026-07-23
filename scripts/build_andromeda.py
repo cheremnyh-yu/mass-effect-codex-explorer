@@ -1,27 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Parse data/raw/andromeda_codex.pdf into a clean, structured entry
-list matching the same {text, entities} shape as codex_clean.json/
-timeline_clean.json, so all three corpora can share one entity graph.
-
-Structure of the source PDF (confirmed by inspection): a table of contents
-lists every entry title, in document order, as "Title .......... N" (dot
-leader + page number). Unlike the docx codex, titles in the body have NO
-trailing colon and aren't reliably separated from the preceding paragraph by
-a blank line (sub-headings like "Know Associates" sometimes glue directly
-onto the prior sentence with a single newline) -- so titles can't be detected
-from body formatting alone. Instead, each TOC title is located by sequential
-text search directly in the flattened body text (all 190 titles were found
-this way with zero misses), and body content is whatever falls between one
-title's position and the next.
-
-Title shape is otherwise the same "Name" (primary) / "Category: Name"
-(secondary) split as the docx codex, so entry-id/category logic is mirrored
-from build_codex.py.
-
-Output: data/processed/andromeda_clean.json -- a JSON array of
-    {entry_id, entry_name, category, is_primary, text, entities}
-records, one per atomic sentence, grouped by entry in document order.
-"""
 import json
 import re
 from pathlib import Path

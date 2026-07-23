@@ -1,7 +1,3 @@
-"""Regenerate codex_explorer.html by embedding graph_data.json into explorer_template.html.
-
-Run this after build_graph_data.py produces a fresh graph_data.json.
-"""
 import json
 from pathlib import Path
 

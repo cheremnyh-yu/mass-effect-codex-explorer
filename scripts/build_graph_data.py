@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Merge timeline_clean.json (dated events) and codex_clean.json (the docx
-codex entries) into one compact JSON blob for the codex-explorer artifact:
-an entity co-occurrence network spanning both corpora, plus the timeline
-event list (unchanged) for the Timeline view.
-"""
 import json
 import re
 from collections import Counter, defaultdict

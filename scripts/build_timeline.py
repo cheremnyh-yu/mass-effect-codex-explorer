@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Parse data/raw/timeline_raw.txt (raw fandom-wiki timeline dump) into a clean,
-structured event list for the entity-embedding / Neural CDE pipeline.
-
-Output: data/processed/timeline_clean.json -- a JSON array of
-    {year, year_end, approx, era, title, text, entities}
-records, one per atomic sentence/event, in chronological source order.
-"""
 import json
 import re
 from pathlib import Path

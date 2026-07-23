@@ -1,21 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Parse data/raw/mass_effect_codex.docx into a clean, structured entry
-list matching the same {text, entities} shape as timeline_clean.json, so the
-two corpora can share one entity graph.
-
-Structure of the source doc (confirmed by inspection): every entry title is a
-short paragraph ending in ":" -- either "Name:" (a primary entry, e.g. "The
-Asari:") or "Category: Name:" (a secondary entry, e.g. "Asari: Biology:").
-Section dividers ("Primary Codex Entries" / "Secondary Codex Entries") use a
-different paragraph style and aren't titles. Some entries repeat (once under
-Primary, again as an anchor before their own Secondary sub-entries) -- bodies
-get merged. A handful of body sentences also end in ":" as list intros (e.g.
-"C-Sec has six divisions:") -- filtered out by requiring title-case wording.
-
-Output: data/processed/codex_clean.json -- a JSON array of
-    {entry_id, entry_name, category, is_primary, text, entities}
-records, one per atomic sentence, grouped by entry in document order.
-"""
 import json
 import re
 from pathlib import Path

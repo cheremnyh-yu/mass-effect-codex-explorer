@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Shared entity-extraction logic for both the timeline (build_timeline.py) and
-the codex docx (build_codex.py) pipelines, so a fix made in one place (e.g. the
-Alliance/Systems_Alliance alias, the Citadel/Citadel_Council decomposition rule)
-applies consistently to both corpora and their entity IDs line up.
-"""
 import re
 
 ARTICLES = {"The", "A", "An"}
