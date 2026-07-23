@@ -1,0 +1,5832 @@
+[
+  {
+    "year": null,
+    "year_end": null,
+    "approx": true,
+    "era": "Prehistoric Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The Leviathans dominate the Milky Way, enthralling every new sapient race they encounter and protecting them in return for tribute.",
+    "entities": [
+      "Leviathan",
+      "Leviathans",
+      "Milky_Way"
+    ]
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "approx": true,
+    "era": "Prehistoric Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The Leviathans consider themselves the galaxy's first and only apex race.",
+    "entities": [
+      "Leviathan",
+      "Leviathans"
+    ]
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "approx": true,
+    "era": "Prehistoric Times",
+    "title": null,
+    "date_detail": null,
+    "text": "After observing that their subservient races create synthetic races who consistently and violently rebel, the Leviathans create an Intelligence to seek a way to permanently preserve organic life.",
+    "entities": [
+      "Intelligence",
+      "Leviathan"
+    ]
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "approx": true,
+    "era": "Prehistoric Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The Intelligence constructs an army of \"pawns\" to gather genetic information throughout the galaxy.",
+    "entities": [
+      "Intelligence"
+    ]
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "approx": true,
+    "era": "Prehistoric Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The Intelligence betrays the Leviathans, using its pawns to slaughter them for their genetic material to create Harbinger, the first Reaper.",
+    "entities": [
+      "Harbinger",
+      "Intelligence",
+      "Leviathan",
+      "Reaper"
+    ]
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "approx": true,
+    "era": "Prehistoric Times",
+    "title": null,
+    "date_detail": null,
+    "text": "Thus begins the cyclical harvest of the galaxy's intelligent organic life by the Reapers, part of a vast experiment conducted by the Intelligence to fulfill its mandate.",
+    "entities": [
+      "Intelligence",
+      "Reaper"
+    ]
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "approx": true,
+    "era": "Prehistoric Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The Intelligence builds the mass relay network to increase the efficiency of the cycles, allowing galactic civilizations to develop faster and more consistently between harvests.",
+    "entities": [
+      "Intelligence",
+      "Mass_Relay"
+    ]
+  },
+  {
+    "year": -1000000000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Prothean Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The Leviathan of Dis, a Reaper, is killed by the Leviathans.",
+    "entities": [
+      "Leviathan",
+      "Leviathan_of_Dis",
+      "Reaper"
+    ]
+  },
+  {
+    "year": -1000000000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Prothean Times",
+    "title": null,
+    "date_detail": null,
+    "text": "Its corpse comes to rest on the planet Jartar and remains undisturbed for nearly one billion years.",
+    "entities": [
+      "Jartar"
+    ]
+  },
+  {
+    "year": -37000000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Prothean Times",
+    "title": null,
+    "date_detail": null,
+    "text": "An unknown spacefaring race fires a mass accelerator round at a Reaper near the planet Mnemosyne.",
+    "entities": [
+      "Mnemosyne",
+      "Reaper"
+    ]
+  },
+  {
+    "year": -37000000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Prothean Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The round penetrates the Reaper, disabling it, and continues moving through space, eventually striking the planet Klendagon and creating the geological feature there known as the Great Rift Valley.",
+    "entities": [
+      "Great_Rift_Valley",
+      "Klendagon",
+      "Reaper"
+    ]
+  },
+  {
+    "year": -298000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Prothean Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The ancient arthenn race flourish in the Zelene system, living on the planet Helyme until being destroyed in an unknown event that wiped out all complex life on the planet.",
+    "entities": [
+      "Arthenn",
+      "Helyme",
+      "Zelene"
+    ]
+  },
+  {
+    "year": -298000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Prothean Times",
+    "title": null,
+    "date_detail": null,
+    "text": "They also maintained a presence on other planets in the system including Epho, which bears the scars of an ancient orbital bombardment, and Gaelon, which may have been mined for helium-3.",
+    "entities": [
+      "Epho",
+      "Gaelon",
+      "Helium_3"
+    ]
+  },
+  {
+    "year": -125000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Prothean Times",
+    "title": null,
+    "date_detail": null,
+    "text": "Ancient spacefaring races called the thoi'han and inusannon fight over the planet Eingana, littering the planet with the debris of hundreds of starships.",
+    "entities": [
+      "Eingana",
+      "Inusannon",
+      "Thoihan"
+    ]
+  },
+  {
+    "year": -125000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Prothean Times",
+    "title": null,
+    "date_detail": null,
+    "text": "Refined element zero scattered by broken drive cores contaminates the environment, causing many native species to go extinct and those that survive to show a tendency to develop biotic powers.",
+    "entities": [
+      "Biotics",
+      "Element_Zero"
+    ]
+  },
+  {
+    "year": -68000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The Protheans achieve spaceflight and discover mass effect technology from the ruins of the extinct inusannon.",
+    "entities": [
+      "Inusannon",
+      "Prothean"
+    ]
+  },
+  {
+    "year": -68000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "They go on to establish a galaxy-wide civilization linked by the mass relay network with the Citadel as their capital.",
+    "entities": [
+      "Citadel",
+      "Mass_Relay"
+    ]
+  },
+  {
+    "year": -68000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "At some point, the Protheans encounter a hostile race of machine intelligences that endanger their existence.",
+    "entities": [
+      "Prothean"
+    ]
+  },
+  {
+    "year": -68000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "To combat this threat, the Protheans aggressively assimilate many other spacefaring organic races into their empire.",
+    "entities": [
+      "Prothean"
+    ]
+  },
+  {
+    "year": -68000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The Prothean Empire is able to fend off the machines in a conflict known as the \"Metacon War\".",
+    "entities": [
+      "Metacon_War",
+      "Prothean",
+      "Prothean_Empire"
+    ]
+  },
+  {
+    "year": -48000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": "Fall of the Protheans",
+    "date_detail": null,
+    "text": "The Prothean Empire collapses with the arrival of the Reapers through the Citadel.",
+    "entities": [
+      "Citadel",
+      "Prothean",
+      "Prothean_Empire",
+      "Reaper"
+    ]
+  },
+  {
+    "year": -48000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": "Fall of the Protheans",
+    "date_detail": null,
+    "text": "Although the Protheans had learned of the Reapers' existence from studying the ruins of previous civilizations and had begun to prepare, they were nonetheless caught off-guard.",
+    "entities": [
+      "Prothean",
+      "Reaper"
+    ]
+  },
+  {
+    "year": -48000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": "Fall of the Protheans",
+    "date_detail": null,
+    "text": "Over the next several centuries, the Protheans fight the Reapers system by system, world by world, and city by city.",
+    "entities": [
+      "Prothean",
+      "Reaper"
+    ]
+  },
+  {
+    "year": -48000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": "Fall of the Protheans",
+    "date_detail": null,
+    "text": "In the end, it is not enough.",
+    "entities": []
+  },
+  {
+    "year": -48000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": "Fall of the Protheans",
+    "date_detail": null,
+    "text": "The Reapers methodically wipe out the remaining Protheans, as well as other contemporary races, and depart the galaxy to await the next cycle.",
+    "entities": [
+      "Prothean",
+      "Reaper"
+    ]
+  },
+  {
+    "year": -13000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The turians of Palaven begin to develop civilization around this time.",
+    "entities": [
+      "Palaven",
+      "Turian"
+    ]
+  },
+  {
+    "year": -6000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "Seeking to escape the imminent explosion of their sun, an alien race constructs an AI-managed starship equipped with supercomputers containing a virtual world, into which some one billion of the aliens transfer their consciousnesses.",
+    "entities": [
+      "AI"
+    ]
+  },
+  {
+    "year": -6000,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The starship begins a journey throughout the galaxy which lasts for the next 8,000 years.",
+    "entities": []
+  },
+  {
+    "year": -1900,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "Tuchanka, the krogan homeworld, enters the nuclear age.",
+    "entities": [
+      "Krogan",
+      "Tuchanka"
+    ]
+  },
+  {
+    "year": -1900,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "In a global conflict, weapons of mass destruction are released, triggering a nuclear winter.",
+    "entities": []
+  },
+  {
+    "year": -1900,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "In the resulting devastation, krogan society devolves into a collection of warring clans.",
+    "entities": [
+      "Krogan"
+    ]
+  },
+  {
+    "year": -1800,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "A supernova propels the Mu Relay, the only point of access to the remote Pangaea Expanse, out of position.",
+    "entities": [
+      "Mu_Relay",
+      "Pangaea_Expanse"
+    ]
+  },
+  {
+    "year": -1800,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "Concealed somewhere in the dense nebula formed by the supernova, the relay's position is effectively lost for centuries.",
+    "entities": []
+  },
+  {
+    "year": -1800,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "Later, the rachni rediscover the relay.",
+    "entities": [
+      "Rachni"
+    ]
+  },
+  {
+    "year": -1600,
+    "year_end": null,
+    "approx": true,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "In the Andromeda galaxy, the angara are created and seeded across multiple worlds in the Heleus Cluster by the Jardaan.",
+    "entities": [
+      "Andromeda",
+      "Angara",
+      "Heleus_Cluster",
+      "Jardaan"
+    ]
+  },
+  {
+    "year": -580,
+    "year_end": null,
+    "approx": false,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "After developing faster-than-light spacefaring capabilities based upon Prothean technology, the asari begin to explore the mass relay network, and eventually discover the huge Citadel space station at a hub of many mass relays.",
+    "entities": [
+      "Asari",
+      "Citadel",
+      "Mass_Relay",
+      "Prothean"
+    ]
+  },
+  {
+    "year": -520,
+    "year_end": null,
+    "approx": false,
+    "era": "Pre-Council Times",
+    "title": null,
+    "date_detail": null,
+    "text": "The salarians discover the Citadel and open diplomatic relations with the asari.",
+    "entities": [
+      "Asari",
+      "Citadel",
+      "Salarian"
+    ]
+  },
+  {
+    "year": -500,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Formation",
+    "title": "Founding of the Citadel Council",
+    "date_detail": null,
+    "text": "The Citadel Council is formed.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council"
+    ]
+  },
+  {
+    "year": -500,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Formation",
+    "title": "Founding of the Citadel Council",
+    "date_detail": null,
+    "text": "The asari and salarians together colonize the Citadel and establish it as a center of the galactic community, led by the Council.",
+    "entities": [
+      "Asari",
+      "Citadel",
+      "Citadel_Council",
+      "Salarian"
+    ]
+  },
+  {
+    "year": -500,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Formation",
+    "title": "Founding of the Citadel Council",
+    "date_detail": null,
+    "text": "This year is also known as 0 GS, the beginning of the Galactic Standard (GS) timeline.",
+    "entities": [
+      "GS",
+      "Galactic_Standard"
+    ]
+  },
+  {
+    "year": -500,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Formation",
+    "title": "Founding of the Citadel Council",
+    "date_detail": null,
+    "text": "As a gesture of openness with their new asari allies, the Salarian Union opens the records of the League of One.",
+    "entities": [
+      "Asari",
+      "League_of_One",
+      "Salarian",
+      "Salarian_Union"
+    ]
+  },
+  {
+    "year": -500,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Formation",
+    "title": "Founding of the Citadel Council",
+    "date_detail": null,
+    "text": "Under threat, the League responds by assassinating every member of the Union's inner cabinet; Special Tasks Group operatives then hunt down and eliminate the League.",
+    "entities": [
+      "League_of_One",
+      "Salarian_Union",
+      "Special_Tasks_Group"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "The volus begin exploring and colonizing the stars shortly after discovering FTL.",
+    "entities": [
+      "FTL",
+      "Volus"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "First contact is made with the volus.",
+    "entities": [
+      "Volus"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "Eventually, the Citadel Council commissions the volus to draw up the Unified Banking Act, which establishes a standard galactic currency known as the credit and links all galactic economies.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council",
+      "Unified_Banking_Act",
+      "Volus"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "The turian Unification War occurs.",
+    "entities": [
+      "Turian",
+      "Unification_War"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "The increasingly isolated and xenophobic colonies on the frontiers of turian space go to war with each other.",
+    "entities": [
+      "Turian"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "After years of fighting, the Turian Hierarchy sweeps in and pacifies the remaining factions.",
+    "entities": [
+      "Turian",
+      "Turian_Hierarchy"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "Animosity between turian colonies continues for decades.",
+    "entities": [
+      "Turian"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "The Council grants the volus the honor of being the first non-Council species with an embassy at the Citadel, rather than a Council seat.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council",
+      "Volus"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "First contact is made with the batarians.",
+    "entities": [
+      "Batarian"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "They are granted an embassy a century later.",
+    "entities": []
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "The asari discover the elcor home system and help the elcor locate and activate their nearest mass relay.",
+    "entities": [
+      "Asari",
+      "Elcor",
+      "Mass_Relay"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "\"Within one elcor lifetime\" they establish a regular trade route to the Citadel and are granted an embassy.",
+    "entities": [
+      "Citadel",
+      "Elcor"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "First contact is made with the hanar and the quarians.",
+    "entities": [
+      "Hanar",
+      "Quarian"
+    ]
+  },
+  {
+    "year": -300,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Formation",
+    "title": null,
+    "date_detail": null,
+    "text": "Both races are later granted embassies.",
+    "entities": []
+  },
+  {
+    "year": 1,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": "The Rachni Wars",
+    "date_detail": null,
+    "text": "The rachni, a species of highly intelligent hive-minded insects, are discovered when a Citadel expedition opens a dormant mass relay leading to their star systems.",
+    "entities": [
+      "Citadel",
+      "Mass_Relay",
+      "Rachni"
+    ]
+  },
+  {
+    "year": 1,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": "The Rachni Wars",
+    "date_detail": null,
+    "text": "The rachni prove to be hostile and begin a war with the rest of the galaxy.",
+    "entities": [
+      "Rachni"
+    ]
+  },
+  {
+    "year": 1,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": "The Rachni Wars",
+    "date_detail": null,
+    "text": "Negotiation with the rachni queens is impossible because they cannot be contacted in their underground nests on the toxic rachni worlds.",
+    "entities": [
+      "Rachni"
+    ]
+  },
+  {
+    "year": 80,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "The Rachni Wars continue.",
+    "entities": [
+      "Rachni",
+      "Rachni_Wars"
+    ]
+  },
+  {
+    "year": 80,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "The salarians make first contact with and uplift the primitive krogan, manipulating them into acting as soldiers for the Citadel Council.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council",
+      "Krogan",
+      "Salarian"
+    ]
+  },
+  {
+    "year": 80,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "The krogan prove able to survive the harsh environments of the rachni worlds and pursue the rachni into their nests, systematically eradicating queens and eggs.",
+    "entities": [
+      "Krogan",
+      "Rachni"
+    ]
+  },
+  {
+    "year": 300,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "The rachni are declared extinct.",
+    "entities": [
+      "Rachni"
+    ]
+  },
+  {
+    "year": 300,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "In gratitude for their aid during the Rachni Wars, the Council rewards the krogan a new homeworld.",
+    "entities": [
+      "Citadel_Council",
+      "Krogan",
+      "Rachni",
+      "Rachni_Wars"
+    ]
+  },
+  {
+    "year": 300,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "Free of the harsh environment of Tuchanka, the krogan population explodes.",
+    "entities": [
+      "Krogan",
+      "Tuchanka"
+    ]
+  },
+  {
+    "year": 300,
+    "year_end": 700,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "The krogan begin to expand exponentially, colonizing many new worlds.",
+    "entities": [
+      "Krogan"
+    ]
+  },
+  {
+    "year": 300,
+    "year_end": 700,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "Growing concerns about their expansion lead to the founding of the Special Tactics and Reconnaissance branch of the Citadel.",
+    "entities": [
+      "Citadel",
+      "Spectres"
+    ]
+  },
+  {
+    "year": 693,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "Beelo Gurji, a salarian operative, is appointed the first Spectre by the Citadel Council.",
+    "entities": [
+      "Beelo_Gurji",
+      "Citadel",
+      "Citadel_Council",
+      "Salarian",
+      "Spectres"
+    ]
+  },
+  {
+    "year": 700,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": "The Krogan Rebellions",
+    "date_detail": null,
+    "text": "Nakmor Drack is born.",
+    "entities": [
+      "Nakmor_Drack"
+    ]
+  },
+  {
+    "year": 700,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": "The Krogan Rebellions",
+    "date_detail": null,
+    "text": "Krogan warlords leverage veterans of the Rachni Wars to annex territory from other races in Citadel space.",
+    "entities": [
+      "Citadel",
+      "Krogan",
+      "Rachni",
+      "Rachni_Wars"
+    ]
+  },
+  {
+    "year": 700,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": "The Krogan Rebellions",
+    "date_detail": null,
+    "text": "Eventually the Council demands withdrawal from the asari colony of Lusia, but the krogan refuse.",
+    "entities": [
+      "Asari",
+      "Citadel_Council",
+      "Krogan",
+      "Lusia"
+    ]
+  },
+  {
+    "year": 700,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": "The Krogan Rebellions",
+    "date_detail": null,
+    "text": "A preemptive strike is made on krogan infrastructures by the Spectres.",
+    "entities": [
+      "Krogan",
+      "Spectres"
+    ]
+  },
+  {
+    "year": 700,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": "The Krogan Rebellions",
+    "date_detail": null,
+    "text": "The Krogan Rebellions begin.",
+    "entities": [
+      "Krogan",
+      "Krogan_Rebellions"
+    ]
+  },
+  {
+    "year": 700,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": "The Krogan Rebellions",
+    "date_detail": null,
+    "text": "The Citadel Council makes first contact with the turians around this time and persuades them to aid in the war.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council",
+      "Turian"
+    ]
+  },
+  {
+    "year": 700,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": "The Krogan Rebellions",
+    "date_detail": null,
+    "text": "After the krogan respond to the initial turian offensive by devastating turian colonies with weapons of mass destruction, the turians vow to stop the krogan from ever becoming a threat again.",
+    "entities": [
+      "Krogan",
+      "Turian"
+    ]
+  },
+  {
+    "year": 700,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": "The Krogan Rebellions",
+    "date_detail": null,
+    "text": "Sometime after the turians join the galactic community, the volus are accepted as a client race of the Turian Hierarchy.",
+    "entities": [
+      "Turian",
+      "Turian_Hierarchy",
+      "Volus"
+    ]
+  },
+  {
+    "year": 710,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "Realizing that the krogan will never give in as long as they can replenish their fighters, the turians unleash a salarian-engineered bio-weapon known as the genophage on the krogan.",
+    "entities": [
+      "Genophage",
+      "Krogan",
+      "Salarian",
+      "Turian"
+    ]
+  },
+  {
+    "year": 710,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "The krogan population starts its decline.",
+    "entities": [
+      "Krogan"
+    ]
+  },
+  {
+    "year": 800,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "The Krogan Rebellions end, though scattered krogan insurgent actions continue for decades.",
+    "entities": [
+      "Krogan",
+      "Krogan_Rebellions"
+    ]
+  },
+  {
+    "year": 800,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "The turians fill the military and peacekeeping niche left by the decimated krogan.",
+    "entities": [
+      "Krogan",
+      "Turian"
+    ]
+  },
+  {
+    "year": 800,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - War and Rebellion",
+    "title": null,
+    "date_detail": null,
+    "text": "The Citadel Conventions are drawn up in the wake of the conflict.",
+    "entities": [
+      "Citadel",
+      "Citadel_Conventions"
+    ]
+  },
+  {
+    "year": 900,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The turians are granted a seat on the Citadel Council in recognition for their service in the Krogan Rebellions.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council",
+      "Krogan",
+      "Krogan_Rebellions",
+      "Turian"
+    ]
+  },
+  {
+    "year": 1380,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Extensive and unchecked industrial expansion on the drell homeworld Rakhana begins taking a significant toll on the planet's environment.",
+    "entities": [
+      "Drell",
+      "Rakhana"
+    ]
+  },
+  {
+    "year": 1600,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The first sightings of the Collectors are reported in the Terminus Systems.",
+    "entities": [
+      "Collector",
+      "Terminus_Systems"
+    ]
+  },
+  {
+    "year": 1600,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "In Citadel space, the claims are dismissed as unsubstantiated rumors and tall tales.",
+    "entities": [
+      "Citadel"
+    ]
+  },
+  {
+    "year": 1600,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "(Estimated date) In the Andromeda galaxy, the Jardaan begin deploying Remnant machines to the Heleus Cluster to terraform barren planets into life-supporting worlds.",
+    "entities": [
+      "Andromeda",
+      "Estimated",
+      "Heleus_Cluster",
+      "Jardaan",
+      "Remnant"
+    ]
+  },
+  {
+    "year": 1755,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Samara's three daughters are diagnosed as Ardat-Yakshi.",
+    "entities": [
+      "Ardat_Yakshi"
+    ]
+  },
+  {
+    "year": 1755,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Rila and Falere accept exile, but Morinth flees.",
+    "entities": [
+      "Falere",
+      "Morinth"
+    ]
+  },
+  {
+    "year": 1755,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Samara takes the oaths of the asari justicars and pursues her errant daughter for the next 430 years.",
+    "entities": [
+      "Asari"
+    ]
+  },
+  {
+    "year": 1858,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The oldest geth log is time-stamped around this time, on quarian creator year 2463, third day of Fal'tash, Waxing Moon.",
+    "entities": [
+      "Faltash",
+      "Geth",
+      "Quarian",
+      "Waxing_Moon"
+    ]
+  },
+  {
+    "year": 1873,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The oldest geth audio-visual log dates from approximately this time, 15 years after their oldest log.",
+    "entities": [
+      "Geth"
+    ]
+  },
+  {
+    "year": 1873,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "On quarian creator year 2485, 18th day of Lun'shal, New Moon, the geth record the first instance of their creators growing frightened when a unit inquires if geth have souls.",
+    "entities": [
+      "Geth",
+      "Lunshal",
+      "New_Moon",
+      "Quarian"
+    ]
+  },
+  {
+    "year": 1880,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Aria T'Loak arrives on Omega, a space station in the Terminus Systems regarded as the region's nominal capital.",
+    "entities": [
+      "Aria_TLoak",
+      "Omega",
+      "Terminus_Systems"
+    ]
+  },
+  {
+    "year": 1880,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Aria is hired by the station's warlord as an enforcer and quickly becomes one of his most trusted lieutenants.",
+    "entities": [
+      "Aria_TLoak",
+      "Lieutenant"
+    ]
+  },
+  {
+    "year": 1895,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": "The Geth War",
+    "date_detail": null,
+    "text": "The geth, machines created by the quarians as a source of cheap labor, become self-aware.",
+    "entities": [
+      "Geth",
+      "Quarian"
+    ]
+  },
+  {
+    "year": 1895,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": "The Geth War",
+    "date_detail": null,
+    "text": "Fearing a geth uprising, the quarians begin dismantling them.",
+    "entities": [
+      "Geth",
+      "Quarian"
+    ]
+  },
+  {
+    "year": 1895,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": "The Geth War",
+    "date_detail": null,
+    "text": "The geth revolt against their quarian masters.",
+    "entities": [
+      "Geth",
+      "Quarian"
+    ]
+  },
+  {
+    "year": 1895,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": "The Geth War",
+    "date_detail": null,
+    "text": "In the resulting conflict--known to the geth as the Morning War--the geth systematically drive the quarians from their own worlds.",
+    "entities": [
+      "Geth",
+      "Morning_War",
+      "Quarian"
+    ]
+  },
+  {
+    "year": 1895,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": "The Geth War",
+    "date_detail": null,
+    "text": "The surviving quarians are reduced to living as spacefaring nomads aboard the Migrant Fleet.",
+    "entities": [
+      "Migrant_Fleet",
+      "Quarian"
+    ]
+  },
+  {
+    "year": 1895,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": "The Geth War",
+    "date_detail": null,
+    "text": "Contrary to expectations, the geth do not venture outside the former quarian systems into wider Citadel space, instead isolating themselves from the rest of the galaxy behind the Perseus Veil.",
+    "entities": [
+      "Citadel",
+      "Geth",
+      "Perseus_Veil",
+      "Quarian"
+    ]
+  },
+  {
+    "year": 1895,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": "The Geth War",
+    "date_detail": null,
+    "text": "As punishment for creating the geth, the Citadel Council closes the quarian embassy on the Citadel.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council",
+      "Geth",
+      "Quarian"
+    ]
+  },
+  {
+    "year": 1921,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The geth begin construction of a megastructure designed to house and simultaneously run every geth program in existence.",
+    "entities": [
+      "Geth"
+    ]
+  },
+  {
+    "year": 1921,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Completion of the megastructure, which would allow the geth to maximize their collective processing capacity, is the long-term goal of geth civilization.",
+    "entities": [
+      "Geth"
+    ]
+  },
+  {
+    "year": 1961,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": "April 12",
+    "text": "Yuri Gagarin aboard the Vostok 1 becomes the first human to travel in space.",
+    "entities": [
+      "Human",
+      "Vostok",
+      "Yuri_Gagarin"
+    ]
+  },
+  {
+    "year": 1961,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": "April 12",
+    "text": "Humanity becomes a spacefaring race.",
+    "entities": [
+      "Human"
+    ]
+  },
+  {
+    "year": 1969,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": "July 20",
+    "text": "Apollo 11 lands on Luna.",
+    "entities": [
+      "Luna"
+    ]
+  },
+  {
+    "year": 1969,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": "July 20",
+    "text": "Neil Armstrong becomes the first human to walk on Luna, and the first human to walk on an astronomical object other than Earth.",
+    "entities": [
+      "Earth",
+      "Human",
+      "Luna",
+      "Neil_Armstrong"
+    ]
+  },
+  {
+    "year": 1980,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The drell make first contact with the hanar around this time.",
+    "entities": [
+      "Drell",
+      "Hanar"
+    ]
+  },
+  {
+    "year": 1980,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "With their homeworld Rakhana severely depleted and no spaceflight capability, the drell were poised for a massive population crash by 2025 CE.",
+    "entities": [
+      "Drell",
+      "Rakhana"
+    ]
+  },
+  {
+    "year": 1980,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Agreeing to help, the hanar mount a large-scale rescue operation and evacuate approximately 375,000 drell to their own homeworld, Kahje, over the following decade.",
+    "entities": [
+      "Drell",
+      "Hanar",
+      "Kahje"
+    ]
+  },
+  {
+    "year": 1980,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The remaining 11 billion drell on Rakhana gradually perish, warring over the last reserves of food and water.",
+    "entities": [
+      "Drell",
+      "Rakhana"
+    ]
+  },
+  {
+    "year": 1980,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Aria T'Loak assumes control of Omega after defeating the space station's previous warlord in single combat.",
+    "entities": [
+      "Aria_TLoak",
+      "Omega"
+    ]
+  },
+  {
+    "year": 1980,
+    "year_end": null,
+    "approx": true,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "She mockingly bestows the title \"Patriarch\" on the broken krogan, and uses him as a reminder to her enemies of her power.",
+    "entities": [
+      "Aria_TLoak",
+      "Krogan",
+      "Patriarch"
+    ]
+  },
+  {
+    "year": 1985,
+    "year_end": 1992,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Giotto — First ESA deep space mission; first ESA mission to intercept an asteroid (Halley & Grigg-Skjellerup)",
+    "entities": [
+      "ESA",
+      "Grigg_Skjellerup",
+      "Halley"
+    ]
+  },
+  {
+    "year": 1990,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Launch of the Hubble Space Telescope",
+    "entities": [
+      "Hubble_Space_Telescope"
+    ]
+  },
+  {
+    "year": 1992,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Ulysses — First ESA mission to Sol; first polar orbit around Sol",
+    "entities": [
+      "ESA",
+      "Sol"
+    ]
+  },
+  {
+    "year": 1997,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Sojourner touches down at Ares Vallis becoming the first rover to explore Mars.",
+    "entities": [
+      "Ares_Vallis",
+      "Mars"
+    ]
+  },
+  {
+    "year": 1997,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "During its three months of operation, the rover captures more than 550 images of the Red Planet.",
+    "entities": [
+      "Red_Planet"
+    ]
+  },
+  {
+    "year": 1997,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Huygens — First ESA mission to Titan; a Saturn moon",
+    "entities": [
+      "ESA",
+      "Saturn",
+      "Titan"
+    ]
+  },
+  {
+    "year": 2003,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Mars Express — First ESA mission to Mars",
+    "entities": [
+      "ESA",
+      "Mars",
+      "Mars_Express"
+    ]
+  },
+  {
+    "year": 2003,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "SMART-1 — First ESA mission to Luna",
+    "entities": [
+      "ESA",
+      "Luna"
+    ]
+  },
+  {
+    "year": 2004,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Rosetta — First ESA mission to orbit an asteroid (67P / Churyumov-Gerasimenko)",
+    "entities": [
+      "Churyumov_Gerasimenko",
+      "ESA"
+    ]
+  },
+  {
+    "year": 2006,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Venus Express — First ESA mission to Venus",
+    "entities": [
+      "ESA",
+      "Venus",
+      "Venus_Express"
+    ]
+  },
+  {
+    "year": 2006,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Huygens — First successful landing on an outer Solar System world (Titan)",
+    "entities": [
+      "Solar_System",
+      "Titan"
+    ]
+  },
+  {
+    "year": 2014,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Rosetta — First artificial probe to make a soft landing on an asteroid (67P)",
+    "entities": []
+  },
+  {
+    "year": 2015,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "SpaceX successfully lands and recovers the first stage of its Falcon 9 rocket after delivering 11 communications satellites to orbit.",
+    "entities": [
+      "Falcon"
+    ]
+  },
+  {
+    "year": 2015,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "This represents the first-ever orbital class rocket landing, and humanity’s first major shift towards sustainable space travel.",
+    "entities": [
+      "Human"
+    ]
+  },
+  {
+    "year": 2016,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "ExoMars - First ESA probe landing on Mars (contact lost)",
+    "entities": [
+      "ESA",
+      "Mars"
+    ]
+  },
+  {
+    "year": 2018,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "BepiColombo — First ESA mission to Mercury",
+    "entities": [
+      "ESA",
+      "Mercury"
+    ]
+  },
+  {
+    "year": 2022,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Juice — First ESA mission to the Jupiter system",
+    "entities": [
+      "ESA",
+      "Jupiter"
+    ]
+  },
+  {
+    "year": 2069,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": "July 20",
+    "text": "Armstrong Outpost at Shackleton Crater is formally founded as the first human settlement on Luna, on the 100th anniversary of the first lunar landing.",
+    "entities": [
+      "Armstrong_Outpost",
+      "Human",
+      "Luna",
+      "Shackleton_Crater"
+    ]
+  },
+  {
+    "year": 2070,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Billionaire Victor Manswell, frustrated with the pace of official human space exploration, begins funding his own private spaceflight expedition.",
+    "entities": [
+      "Billionaire_Victor_Manswell",
+      "Human"
+    ]
+  },
+  {
+    "year": 2075,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The Manswell Expedition successfully launches from Earth en route to the Alpha Centauri system with 300 colonists aboard in cryogenic stasis.",
+    "entities": [
+      "Alpha_Centauri",
+      "Earth",
+      "Manswell_Expedition"
+    ]
+  },
+  {
+    "year": 2075,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Communications with the vessel are lost soon after.",
+    "entities": []
+  },
+  {
+    "year": 2077,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Liara T'Soni is born.",
+    "entities": [
+      "Liara_TSoni"
+    ]
+  },
+  {
+    "year": 2103,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The European Space Agency's Lowell City in Eos Chasma becomes the first permanent human settlement on Mars.",
+    "entities": [
+      "City",
+      "Eos_Chasma",
+      "European_Space_Agency",
+      "Human",
+      "Lowell",
+      "Mars"
+    ]
+  },
+  {
+    "year": 2125,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The yahg, an intelligent pre-spaceflight race, are discovered on the planet Parnack.",
+    "entities": [
+      "Parnack",
+      "Yahg"
+    ]
+  },
+  {
+    "year": 2125,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Ambassadors representing the Citadel Council arrive on the planet and attempt to open diplomatic contact.",
+    "entities": [
+      "Ambassador",
+      "Citadel",
+      "Citadel_Council"
+    ]
+  },
+  {
+    "year": 2125,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "After the ambassadors are killed by the predatory yahg, the Council ceases all contact with the yahg and declares Parnack off-limits.",
+    "entities": [
+      "Ambassador",
+      "Citadel_Council",
+      "Parnack",
+      "Yahg"
+    ]
+  },
+  {
+    "year": 2125,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Not long after the yahg are discovered, one yahg is captured for the Shadow Broker to study.",
+    "entities": [
+      "Shadow_Broker",
+      "Yahg"
+    ]
+  },
+  {
+    "year": 2125,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "With the Broker's assistance, the yahg rapidly ascends within the Broker's organization as \"Operative Kechlu\".",
+    "entities": [
+      "Operative_Kechlu",
+      "Shadow_Broker",
+      "Yahg"
+    ]
+  },
+  {
+    "year": 2125,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Eventually, the Broker becomes wary of \"Operative Kechlu\" and attempts to have him terminated, but the order is sent too late.",
+    "entities": [
+      "Operative_Kechlu",
+      "Shadow_Broker"
+    ]
+  },
+  {
+    "year": 2125,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The yahg assumes the mantle of the Shadow Broker and directs the organization for the next sixty years.",
+    "entities": [
+      "Shadow_Broker",
+      "Yahg"
+    ]
+  },
+  {
+    "year": 2129,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Alec Ryder is born.",
+    "entities": [
+      "Alec_Ryder"
+    ]
+  },
+  {
+    "year": 2134,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Steven Hackett is born.",
+    "entities": [
+      "Steven_Hackett"
+    ]
+  },
+  {
+    "year": 2137,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "David Anderson is born.",
+    "entities": [
+      "David_Anderson"
+    ]
+  },
+  {
+    "year": 2137,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The Eldfell-Ashland Energy Corporation demonstrates helium-3 fuel extraction from the atmosphere of Saturn.",
+    "entities": [
+      "Eldfell_Ashland_Energy_Corporation",
+      "Helium_3",
+      "Saturn"
+    ]
+  },
+  {
+    "year": 2139,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Saren Arterius is born.",
+    "entities": [
+      "Saren_Arterius"
+    ]
+  },
+  {
+    "year": 2139,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Kahlee Sanders is born.",
+    "entities": [
+      "Kahlee_Sanders"
+    ]
+  },
+  {
+    "year": 2143,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Construction of Gagarin Station (Jump Zero) begins beyond the orbit of Pluto.",
+    "entities": [
+      "Gagarin_Station",
+      "Jump_Zero",
+      "Pluto"
+    ]
+  },
+  {
+    "year": 2146,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Thane Krios is born.",
+    "entities": [
+      "Thane_Krios"
+    ]
+  },
+  {
+    "year": 2147,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Trace amounts of element zero are discovered on Mars.",
+    "entities": [
+      "Element_Zero",
+      "Mars"
+    ]
+  },
+  {
+    "year": 2148,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": "Humanity Discovers Mass Effect Physics",
+    "date_detail": null,
+    "text": "Humanity discovers a small cache of highly advanced Prothean technology hidden deep beneath the surface of Mars on the south polar region of Promethei Planum.",
+    "entities": [
+      "Human",
+      "Mars",
+      "Promethei_Planum",
+      "Prothean"
+    ]
+  },
+  {
+    "year": 2148,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": "Humanity Discovers Mass Effect Physics",
+    "date_detail": null,
+    "text": "Building on the remnants of this long extinct race, humans quickly explore the science of mass effect fields, leading to the development of faster than light travel and beginning detailed exploration of the Sol system.",
+    "entities": [
+      "Human",
+      "Mass_Effect_Field",
+      "Sol"
+    ]
+  },
+  {
+    "year": 2149,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Following information from the translated data cache on Mars, humans discover that Charon, Pluto's moon, is actually a massive piece of dormant Prothean technology, a mass relay, encased in ice.",
+    "entities": [
+      "Charon",
+      "Human",
+      "Mars",
+      "Mass_Relay",
+      "Pluto",
+      "Prothean"
+    ]
+  },
+  {
+    "year": 2149,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Once activated, Jon Grissom leads the first team of explorers through the relay, which instantaneously transports them to another relay in Arcturus, 36 light-years away.",
+    "entities": [
+      "Arcturus",
+      "Jon_Grissom"
+    ]
+  },
+  {
+    "year": 2149,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The explorers discover that the mass relays are part of a vast network, making travel across the galaxy possible.",
+    "entities": [
+      "Mass_Relay"
+    ]
+  },
+  {
+    "year": 2149,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The Systems Alliance charter is signed by the eighteen largest nations on Earth.",
+    "entities": [
+      "Earth",
+      "Earth_Systems_Alliance"
+    ]
+  },
+  {
+    "year": 2149,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The Alliance soon becomes the military and exploratory spearhead of humanity.",
+    "entities": [
+      "Earth_Systems_Alliance",
+      "Human"
+    ]
+  },
+  {
+    "year": 2150,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Miranda Lawson is born.",
+    "entities": [
+      "Miranda_Lawson"
+    ]
+  },
+  {
+    "year": 2150,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The Systems Alliance begins the first surveys for colonization prospects outside the Sol System.",
+    "entities": [
+      "Earth_Systems_Alliance",
+      "Sol"
+    ]
+  },
+  {
+    "year": 2150,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "One of these surveys discovers the planet Terra Nova.",
+    "entities": [
+      "Terra_Nova"
+    ]
+  },
+  {
+    "year": 2151,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "To defend its expanding territory, humanity begins constructing a massive military fleet and space station at Arcturus, the nexus of several key mass relays, even though they have yet to encounter another intelligent spacefaring race.",
+    "entities": [
+      "Arcturus",
+      "Human",
+      "Mass_Relay"
+    ]
+  },
+  {
+    "year": 2151,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "An accident at Singapore International Spaceport exposes hundreds of humans to dust-form element zero.",
+    "entities": [
+      "Element_Zero",
+      "Human",
+      "Singapore_International_Spaceport"
+    ]
+  },
+  {
+    "year": 2151,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Roughly 30% of the children born in Singapore after element zero exposure suffer from cancerous growths.",
+    "entities": [
+      "Element_Zero",
+      "Singapore"
+    ]
+  },
+  {
+    "year": 2151,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "After his mother is exposed during the accident, Kaidan Alenko is born later that year with biotic potential.",
+    "entities": [
+      "Biotics",
+      "Kaidan_Alenko"
+    ]
+  },
+  {
+    "year": 2152,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The Delta Pavonis Foundation, a major consortium based on Earth, begins settlement of humanity's first extra-solar colony world, the planet Demeter.",
+    "entities": [
+      "Delta_Pavonis_Foundation",
+      "Demeter",
+      "Earth",
+      "Human"
+    ]
+  },
+  {
+    "year": 2152,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Later that year, additional colonies are founded on Eden Prime and Terra Nova.",
+    "entities": [
+      "Eden_Prime",
+      "Terra_Nova"
+    ]
+  },
+  {
+    "year": 2152,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Thane Krios is submitted for training as an assassin under the hanar.",
+    "entities": [
+      "Hanar",
+      "Thane_Krios"
+    ]
+  },
+  {
+    "year": 2154,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": "April 11",
+    "text": "Shepard is born.",
+    "entities": [
+      "Commander_Shepard"
+    ]
+  },
+  {
+    "year": 2154,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "There is a second publicized accident involving the exposure of humans to element zero.",
+    "entities": [
+      "Element_Zero",
+      "Human"
+    ]
+  },
+  {
+    "year": 2155,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Saren Arterius is promoted to active service in the turian military at the age of 16.",
+    "entities": [
+      "Saren_Arterius",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2155,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "The Systems Alliance occupies completed portions of Arcturus Station, intended to become the Alliance's headquarters.",
+    "entities": [
+      "Arcturus_Station",
+      "Earth_Systems_Alliance"
+    ]
+  },
+  {
+    "year": 2155,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Jeff \"Joker\" Moreau is born.",
+    "entities": [
+      "Jeff_Moreau"
+    ]
+  },
+  {
+    "year": 2156,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Arcturus Station is formally inaugurated.",
+    "entities": [
+      "Arcturus_Station"
+    ]
+  },
+  {
+    "year": 2156,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "A small number of human children exposed to element zero exhibit minor telekinetic abilities.",
+    "entities": [
+      "Element_Zero",
+      "Human"
+    ]
+  },
+  {
+    "year": 2156,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Kai Leng is born.",
+    "entities": [
+      "Kai_Leng"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Pluto's orbit becomes circularized as a result of mass relay operations.",
+    "entities": [
+      "Mass_Relay",
+      "Pluto"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "Jacob Taylor is born.",
+    "entities": [
+      "Jacob_Taylor"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Expansion",
+    "title": null,
+    "date_detail": null,
+    "text": "David Anderson graduates from Officer Candidate School with the rank of Second Lieutenant.",
+    "entities": [
+      "David_Anderson",
+      "Lieutenant",
+      "Officer_Candidate_School",
+      "Second_Lieutenant"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "Humanity makes violent first contact with another spacefaring race: the turians.",
+    "entities": [
+      "Human",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "The turians observe human explorers attempting to activate a dormant mass relay, a practice forbidden by galactic law after the Rachni Wars, and attack.",
+    "entities": [
+      "Human",
+      "Mass_Relay",
+      "Rachni",
+      "Rachni_Wars",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "Over the next three months, a brief but tense conflict known by humans as the First Contact War and by turians as the Relay 314 Incident ensues.",
+    "entities": [
+      "First_Contact_War",
+      "Human",
+      "Relay_314",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "Admiral Jon Grissom travels to Arcturus Station to congratulate graduates of the Systems Alliance's N7 training program and meets David Anderson.",
+    "entities": [
+      "Admiral",
+      "Arcturus_Station",
+      "David_Anderson",
+      "Earth_Systems_Alliance",
+      "Jon_Grissom"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "Grissom announces that an unknown alien force has attacked an Alliance post at the colony of Shanxi.",
+    "entities": [
+      "Earth_Systems_Alliance",
+      "Jon_Grissom",
+      "Shanxi"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "The First Contact War culminates in the turian siege and occupation of Shanxi, the first human world to fall to an alien race.",
+    "entities": [
+      "First_Contact_War",
+      "Human",
+      "Shanxi",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "Admiral Kastanie Drescher leads the Second Fleet in battle against Shanxi's occupiers one month later, catching the turians by surprise and evicting them from the planet.",
+    "entities": [
+      "Admiral",
+      "Kastanie_Drescher",
+      "Second_Fleet",
+      "Shanxi",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "The turians prepare for a full-scale war against humanity, but this draws the attention of the Citadel Council.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council",
+      "Human",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "The Council intervenes before hostilities escalate further, revealing the existence of the greater galactic community to humanity and brokering a peace between them and the turians.",
+    "entities": [
+      "Citadel_Council",
+      "Human",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "While aiding the human resistance effort on turian-occupied Shanxi, mercenary Jack Harper becomes embroiled in a plot by turian general Desolas Arterius to use an ancient alien artifact, the Arca Monolith, to convert the turian race into an army of invincible \"meta-turians\".",
+    "entities": [
+      "Arca_Monolith",
+      "Desolas_Arterius",
+      "General",
+      "Human",
+      "Jack_Harper",
+      "Shanxi",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "Harper convinces Desolas' brother Saren of the dangers of the Monolith, which is \"devolving\" the turians into mindless beings under the Monolith's control.",
+    "entities": [
+      "Arca_Monolith",
+      "Desolas_Arterius",
+      "Jack_Harper",
+      "Saren_Arterius",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "To protect his people, Saren orders the destruction of the building holding the Monolith, Temple Palaven, with Desolas and the meta-turians inside.",
+    "entities": [
+      "Arca_Monolith",
+      "Desolas_Arterius",
+      "Saren_Arterius",
+      "Temple_Palaven",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "Later, having realized that humanity and the galaxy face dark times ahead, Harper founds the human-survivalist organization Cerberus, publishes its manifesto, and assumes the identity of the Illusive Man.",
+    "entities": [
+      "Cerberus",
+      "Human",
+      "Illusive_Man",
+      "Jack_Harper"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "An anonymous extranet manifesto is published following the end of the First Contact War.",
+    "entities": [
+      "First_Contact_War"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "The manifesto calls for an army, a \"Cerberus\", to be established to defend humanity against inevitable alien attacks.",
+    "entities": [
+      "Cerberus",
+      "Human"
+    ]
+  },
+  {
+    "year": 2157,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": "The First Contact War",
+    "date_detail": null,
+    "text": "Derided as \"survivalist rhetoric written by an illusive man\", the manifesto is quickly forgotten by the media.",
+    "entities": []
+  },
+  {
+    "year": 2158,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Humans learn the potential of biotics.",
+    "entities": [
+      "Biotics",
+      "Human"
+    ]
+  },
+  {
+    "year": 2158,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "An international effort to track element zero exposures begins.",
+    "entities": [
+      "Element_Zero"
+    ]
+  },
+  {
+    "year": 2158,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Roughly 10% of recorded exposed children show indications of biotic ability.",
+    "entities": [
+      "Biotics"
+    ]
+  },
+  {
+    "year": 2158,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": "April 14",
+    "text": "Ashley Williams is born.",
+    "entities": [
+      "Ashley_Williams"
+    ]
+  },
+  {
+    "year": 2159,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Saren Arterius becomes the youngest turian to be inducted into the Spectres.",
+    "entities": [
+      "Saren_Arterius",
+      "Spectres",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2159,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The Systems Alliance purchases Gagarin Station for a fraction of its construction cost, and converts the facility into a biotic research and training facility.",
+    "entities": [
+      "Biotics",
+      "Earth_Systems_Alliance",
+      "Gagarin_Station"
+    ]
+  },
+  {
+    "year": 2160,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The Systems Alliance Parliament is formed.",
+    "entities": [
+      "Parliament",
+      "Systems_Alliance_Parliament"
+    ]
+  },
+  {
+    "year": 2160,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "With the existence of human biotics firmly established, the Biotic Acclimation and Temperance Training (BAaT) program is set up on Gagarin Station to train potential candidates and develop biotic implants.",
+    "entities": [
+      "BAaT",
+      "Biotics",
+      "Gagarin_Station",
+      "Human"
+    ]
+  },
+  {
+    "year": 2160,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The biotic drug red sand is first used.",
+    "entities": [
+      "Biotics",
+      "Red_Sand"
+    ]
+  },
+  {
+    "year": 2160,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The Blue Suns mercenary group is founded by Zaeed Massani and Vido Santiago in the Skyllian Verge.",
+    "entities": [
+      "Blue_Suns",
+      "Skyllian_Verge",
+      "Vido_Santiago",
+      "Zaeed_Massani"
+    ]
+  },
+  {
+    "year": 2160,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Kasumi Goto is born.",
+    "entities": [
+      "Kasumi_Goto"
+    ]
+  },
+  {
+    "year": 2161,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Amid concerns over gene therapy and genetic modifications being misused, the Systems Alliance Parliament passes the Sudham-Wolcott Genetic Heritage Act.",
+    "entities": [
+      "Parliament",
+      "Sudham_Wolcott_Genetic_Heritage_Act",
+      "Systems_Alliance_Parliament"
+    ]
+  },
+  {
+    "year": 2161,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "It imposes sharp restrictions on controversial uses of genetic engineering, but provides government subsidies for beneficial applications.",
+    "entities": []
+  },
+  {
+    "year": 2161,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Tali'Zorah nar Rayya is born.",
+    "entities": [
+      "TaliZorah"
+    ]
+  },
+  {
+    "year": 2161,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Jack is born.",
+    "entities": [
+      "Jack"
+    ]
+  },
+  {
+    "year": 2162,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Construction of Arcturus Station is completed.",
+    "entities": [
+      "Arcturus_Station"
+    ]
+  },
+  {
+    "year": 2162,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "A survey team working for batarian entrepreneur Edan Had'dah discovers a mysterious artifact orbiting an unnamed planet near the Perseus Veil.",
+    "entities": [
+      "Batarian",
+      "Edan_Haddah",
+      "Perseus_Veil"
+    ]
+  },
+  {
+    "year": 2163,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The Alliance secretly begins illegal AI research at a base on Sidon with Dr. Shu Qian as project leader.",
+    "entities": [
+      "AI",
+      "Earth_Systems_Alliance",
+      "Shu_Qian",
+      "Sidon"
+    ]
+  },
+  {
+    "year": 2163,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Lt. Kahlee Sanders is assigned as a tech analyst.",
+    "entities": [
+      "Kahlee_Sanders"
+    ]
+  },
+  {
+    "year": 2163,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The first experimental L1 biotic implants are used in humans.",
+    "entities": [
+      "Biotics",
+      "Human"
+    ]
+  },
+  {
+    "year": 2163,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "A series of starship drive failures are orchestrated over populated areas on human colony worlds, causing widespread exposures to element zero.",
+    "entities": [
+      "Element_Zero",
+      "Human"
+    ]
+  },
+  {
+    "year": 2163,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "This results in a second generation of humans born with biotic potential.",
+    "entities": [
+      "Biotics",
+      "Human"
+    ]
+  },
+  {
+    "year": 2163,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The Leviathan of Dis, a genetically-engineered living starship believed to be nearly a billion years old, is discovered by a batarian survey team on the planet Jartar.",
+    "entities": [
+      "Batarian",
+      "Jartar",
+      "Leviathan",
+      "Leviathan_of_Dis"
+    ]
+  },
+  {
+    "year": 2163,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The Leviathan disappears under dubious circumstances after a batarian dreadnought passes through the Dis system.",
+    "entities": [
+      "Batarian",
+      "Dis",
+      "Leviathan"
+    ]
+  },
+  {
+    "year": 2163,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Alec Ryder's twin children are born.",
+    "entities": [
+      "Alec_Ryder"
+    ]
+  },
+  {
+    "year": 2164,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Ivor Johnstagg is sentenced to 21 years in prison for attempting to assassinate Venta Tox, the volus ambassador to the Citadel.",
+    "entities": [
+      "Ambassador",
+      "Citadel",
+      "Ivor_Johnstagg",
+      "Venta_Tox",
+      "Volus"
+    ]
+  },
+  {
+    "year": 2164,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Although Johnstagg claims to be acting on behalf of the radical human political party Eternal Earth, no connection is found and Johnstagg is diagnosed with paranoid schizophrenia.",
+    "entities": [
+      "Eternal_Earth",
+      "Human",
+      "Johnstagg"
+    ]
+  },
+  {
+    "year": 2164,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Backlash from the assassination attempt jeopardizes the Systems Alliance's bid for an embassy on the Citadel.",
+    "entities": [
+      "Citadel",
+      "Earth_Systems_Alliance"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Humanity continues to expand, founding more colonies and establishing trade alliances with many of the other species who recognize the authority of the Citadel Council.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council",
+      "Human"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "In 2165 CE, the Council makes official recognition of humanity's growing power and influence in the galactic community.",
+    "entities": [
+      "Citadel_Council",
+      "Human"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Humanity is granted an embassy on the Citadel, the political and economic heart of the galaxy.",
+    "entities": [
+      "Citadel",
+      "Human"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Tensions grow between humans and batarians as they compete for territory in the Skyllian Verge.",
+    "entities": [
+      "Batarian",
+      "Human",
+      "Skyllian_Verge"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "After an Alliance research station at Sidon is attacked, David Anderson searches for those responsible alongside Kahlee Sanders, and discovers an Alliance scientist, Dr. Shu Qian, was conducting illegal AI research to unlock the secrets behind a mysterious artifact discovered near the Perseus Veil.",
+    "entities": [
+      "AI",
+      "David_Anderson",
+      "Earth_Systems_Alliance",
+      "Kahlee_Sanders",
+      "Perseus_Veil",
+      "Shu_Qian",
+      "Sidon"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Eventually, Anderson is assigned to work with Saren Arterius to track down Dr. Qian and his batarian supporter, Edan Had'dah.",
+    "entities": [
+      "Batarian",
+      "David_Anderson",
+      "Edan_Haddah",
+      "Saren_Arterius",
+      "Shu_Qian"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "However, Saren instead kills both Dr. Qian and Had'dah, blames Anderson for the mission's failure, and uses Dr. Qian's research to search for the artifact himself.",
+    "entities": [
+      "David_Anderson",
+      "Haddah",
+      "Saren_Arterius",
+      "Shu_Qian"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Terrorists steal antimatter from the Alliance cruiser SSV Geneva.",
+    "entities": [
+      "Antimatter",
+      "Earth_Systems_Alliance",
+      "SSV_Geneva"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The sole figure arrested names his sponsor \"Cerberus\".",
+    "entities": [
+      "Cerberus"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "This is the first such incident of sabotage connected to the Cerberus organization.",
+    "entities": [
+      "Cerberus"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "After a disagreement between Vido Santiago and Zaeed Massani over hiring batarians into the Blue Suns, Vido betrays Zaeed and leaves him for dead.",
+    "entities": [
+      "Batarian",
+      "Blue_Suns",
+      "Vido_Santiago",
+      "Zaeed_Massani"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "All records of Zaeed's involvement in the Blue Suns are erased.",
+    "entities": [
+      "Blue_Suns",
+      "Zaeed_Massani"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Jack, still a young child, is abducted by Cerberus agents on Eden Prime.",
+    "entities": [
+      "Cerberus",
+      "Eden_Prime",
+      "Jack"
+    ]
+  },
+  {
+    "year": 2165,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "They fake her death and take her to the Teltin Facility on Pragia as part of a project intended to improve biotic potential in humans.",
+    "entities": [
+      "Biotics",
+      "Eden_Prime",
+      "Human",
+      "Pragia",
+      "Teltin_Facility"
+    ]
+  },
+  {
+    "year": 2166,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Commander Vyrnnus, a turian mercenary, is hired to oversee the training of human biotics at BAaT.",
+    "entities": [
+      "BAaT",
+      "Biotics",
+      "Commander",
+      "Human",
+      "Turian",
+      "Vyrnnus"
+    ]
+  },
+  {
+    "year": 2167,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "L2 biotic implants are first developed and used in humans.",
+    "entities": [
+      "Biotics",
+      "Human"
+    ]
+  },
+  {
+    "year": 2167,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Kaidan Alenko is among the first to receive the new implants.",
+    "entities": [
+      "Kaidan_Alenko"
+    ]
+  },
+  {
+    "year": 2167,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The magazine Fornax is launched.",
+    "entities": [
+      "Fornax"
+    ]
+  },
+  {
+    "year": 2168,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Kaidan Alenko accidentally kills Commander Vyrnnus after being provoked.",
+    "entities": [
+      "Commander",
+      "Kaidan_Alenko",
+      "Vyrnnus"
+    ]
+  },
+  {
+    "year": 2168,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The diplomatic fallout with the turians results in BAaT being shut down a year later.",
+    "entities": [
+      "BAaT",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2168,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Shepard receives secondary exposure to element zero.",
+    "entities": [
+      "Commander_Shepard",
+      "Element_Zero"
+    ]
+  },
+  {
+    "year": 2168,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Permanent biotic inclination manifests.",
+    "entities": [
+      "Biotics"
+    ]
+  },
+  {
+    "year": 2170,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The human colony of Mindoir is attacked by batarian slavers.",
+    "entities": [
+      "Batarian",
+      "Human",
+      "Mindoir"
+    ]
+  },
+  {
+    "year": 2170,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Many colonists are killed or captured.",
+    "entities": []
+  },
+  {
+    "year": 2170,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Another human colony, Yandoa, suffers catastrophic dust-form element zero exposure to its atmosphere when an Eldfell-Ashland Energy ship explodes in orbit.",
+    "entities": [
+      "Eldfell_Ashland_Energy_Corporation",
+      "Element_Zero",
+      "Human",
+      "Yandoa"
+    ]
+  },
+  {
+    "year": 2170,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Many children suffer birth defects; thirty-seven biotic children are born, including Gillian Grayson.",
+    "entities": [
+      "Biotics",
+      "Gillian_Grayson"
+    ]
+  },
+  {
+    "year": 2170,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Biotic training for humans is outsourced to the military, selected R&D companies, and renamed divisions of the defunct Conatix Industries.",
+    "entities": [
+      "Biotics",
+      "Conatix_Industries",
+      "Human"
+    ]
+  },
+  {
+    "year": 2170,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "L3 biotic implants are developed after L2 implants prove to be dangerous.",
+    "entities": [
+      "Biotics"
+    ]
+  },
+  {
+    "year": 2170,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The first A-61 Mantis Gunships are produced.",
+    "entities": [
+      "A_61_Mantis_Gunships"
+    ]
+  },
+  {
+    "year": 2171,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "In protest at the refusal of the Citadel Council to limit human expansion in the Skyllian Verge, the batarians close their embassy, withdraw into their home systems, and effectively become a rogue state.",
+    "entities": [
+      "Batarian",
+      "Citadel",
+      "Citadel_Council",
+      "Human",
+      "Skyllian_Verge"
+    ]
+  },
+  {
+    "year": 2171,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Shepard is officially detected as a biotic and fitted with L3 implants.",
+    "entities": [
+      "Biotics",
+      "Commander_Shepard"
+    ]
+  },
+  {
+    "year": 2171,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Cerberus assassinates Pope Clement XVI on Earth via rosary beads coated with toxic substances; his death is attributed to age and heart failure.",
+    "entities": [
+      "Cerberus",
+      "Earth",
+      "Pope_Clement_XVI"
+    ]
+  },
+  {
+    "year": 2171,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "His successor, Pope Leo XIV, espouses beliefs more in-line with Cerberus' ideals.",
+    "entities": [
+      "Cerberus",
+      "Pope_Clement_XVI",
+      "Pope_Leo_XIV"
+    ]
+  },
+  {
+    "year": 2172,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": "April 11",
+    "text": "Shepard enlists in the Alliance military.",
+    "entities": [
+      "Commander_Shepard",
+      "Earth_Systems_Alliance"
+    ]
+  },
+  {
+    "year": 2172,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": "November 14",
+    "text": "Kai Leng enlists in the Alliance military.",
+    "entities": [
+      "Earth_Systems_Alliance",
+      "Kai_Leng"
+    ]
+  },
+  {
+    "year": 2172,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "On Gagarin Station, \"Eliza\" becomes the first sapient AI created in the Systems Alliance.",
+    "entities": [
+      "AI",
+      "Earth_Systems_Alliance",
+      "Eliza",
+      "Gagarin_Station"
+    ]
+  },
+  {
+    "year": 2173,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "A fly-by over the world of Armeni discovers odd surface protrusions.",
+    "entities": [
+      "Armeni"
+    ]
+  },
+  {
+    "year": 2173,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Upon closer inspection, they are identified as elaborate crypts made by the zeioph, an extinct spacefaring race.",
+    "entities": [
+      "Zeioph"
+    ]
+  },
+  {
+    "year": 2173,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Various human universities seek to perform excavation, but Council laws that hold burial sites as sacrosanct prevent this.",
+    "entities": [
+      "Citadel_Council",
+      "Human"
+    ]
+  },
+  {
+    "year": 2173,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "An ongoing debate over the issue ensues.",
+    "entities": []
+  },
+  {
+    "year": 2173,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Terra Firma is involved in a Nashan Stellar Dynamics kickbacks scandal, forcing Inez Simmons, the current party leader, to resign.",
+    "entities": [
+      "Inez_Simmons",
+      "Nashan_Stellar_Dynamics",
+      "Terra_Firma"
+    ]
+  },
+  {
+    "year": 2173,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Charles Saracino becomes the new party leader after his opponent, Claude Menneau, is assassinated by Cerberus operatives while en route to Shanxi.",
+    "entities": [
+      "Cerberus",
+      "Charles_Saracino",
+      "Claude_Menneau",
+      "Shanxi"
+    ]
+  },
+  {
+    "year": 2173,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Publicly, Menneau's disappearance is never explained.",
+    "entities": [
+      "Menneau"
+    ]
+  },
+  {
+    "year": 2173,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Kaidan Alenko enlists in the Alliance military.",
+    "entities": [
+      "Earth_Systems_Alliance",
+      "Kaidan_Alenko"
+    ]
+  },
+  {
+    "year": 2174,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Ashley Williams enlists in the Alliance military.",
+    "entities": [
+      "Ashley_Williams",
+      "Earth_Systems_Alliance"
+    ]
+  },
+  {
+    "year": 2175,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "On a survey mission to 2175 Aeia, an important colonization prospect for the Systems Alliance, the MSV Hugo Gernsback disappears and is presumed destroyed.",
+    "entities": [
+      "Aeia",
+      "Earth_Systems_Alliance",
+      "MSV_Hugo_Gernsback"
+    ]
+  },
+  {
+    "year": 2175,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Cerberus covertly contacts Michael Moser Lang, a political dissident on Earth, and provides him with funding to purchase weapons.",
+    "entities": [
+      "Cerberus",
+      "Earth",
+      "Michael_Moser_Lang"
+    ]
+  },
+  {
+    "year": 2175,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Cerberus continues to monitor him after contact ends.",
+    "entities": [
+      "Cerberus"
+    ]
+  },
+  {
+    "year": 2175,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "One year later, Lang assassinates United North American States president Enrique Aguilar and Chinese People's Federation premier Ying Xiong.",
+    "entities": [
+      "Chinese_People",
+      "Enrique_Aguilar",
+      "Federation",
+      "Lang",
+      "United_North_American_States",
+      "Ying_Xiong"
+    ]
+  },
+  {
+    "year": 2175,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The resulting political shuffle benefits Cerberus' shell companies and plans for the Systems Alliance Parliament.",
+    "entities": [
+      "Cerberus",
+      "Parliament",
+      "Systems_Alliance_Parliament"
+    ]
+  },
+  {
+    "year": 2176,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Batarian-funded pirates and criminals launch a surprise attack, later known as the Skyllian Blitz, on the human colony of Elysium.",
+    "entities": [
+      "Batarian",
+      "Elysium",
+      "Human",
+      "Skyllian_Blitz"
+    ]
+  },
+  {
+    "year": 2176,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The assault is repulsed by the Alliance Navy and ground teams.",
+    "entities": [
+      "Alliance_Navy"
+    ]
+  },
+  {
+    "year": 2176,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The Jon Grissom Academy is commissioned over Elysium, and becomes home to the Alliance's new biotic training program, the Ascension Project.",
+    "entities": [
+      "Ascension_Project",
+      "Biotics",
+      "Earth_Systems_Alliance",
+      "Elysium",
+      "Jon_Grissom_Academy"
+    ]
+  },
+  {
+    "year": 2176,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The Anhur Rebellions, a civil war waged over the practice of slavery, begin on the human and batarian colony world of Anhur and spread throughout the Amun system.",
+    "entities": [
+      "Amun",
+      "Anhur",
+      "Anhur_Rebellions",
+      "Batarian",
+      "Human"
+    ]
+  },
+  {
+    "year": 2176,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Abolitionism supporters hire the Eclipse mercenary group to fight the batarian pro-slavery Na'hesit faction.",
+    "entities": [
+      "Batarian",
+      "Eclipse",
+      "Nahesit"
+    ]
+  },
+  {
+    "year": 2176,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "James Vega enlists in the Alliance military.",
+    "entities": [
+      "Earth_Systems_Alliance",
+      "James_Vega"
+    ]
+  },
+  {
+    "year": 2176,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Kai Leng is awarded the N7 designation by the Alliance's Interplanetary Combatives Academy, but later that year he is dishonorably discharged and imprisoned for first-degree murder.",
+    "entities": [
+      "Earth_Systems_Alliance",
+      "Interplanetary_Combatives_Academy",
+      "Kai_Leng"
+    ]
+  },
+  {
+    "year": 2176,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Miners at the T-GES Mineral Works facility on Mahavid uncover a Leviathan artifact.",
+    "entities": [
+      "Leviathan",
+      "Mahavid",
+      "T_GES_Mineral_Works"
+    ]
+  },
+  {
+    "year": 2176,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The miners are enthralled by the Leviathans for the next ten years and are used to carry out numerous experiments.",
+    "entities": [
+      "Leviathan"
+    ]
+  },
+  {
+    "year": 2176,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The Andromeda Initiative, a privately-funded multi-species endeavor created to explore and colonize the Andromeda Galaxy, is founded.",
+    "entities": [
+      "Andromeda",
+      "Andromeda_Initiative"
+    ]
+  },
+  {
+    "year": 2177,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "During a recon mission to find a missing colonial pioneer team on Akuze, a unit of fifty Alliance marines is wiped out by thresher maws.",
+    "entities": [
+      "Akuze",
+      "Earth_Systems_Alliance",
+      "Thresher_Maw"
+    ]
+  },
+  {
+    "year": 2178,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "In retaliation for the Skyllian Blitz, the Alliance launches a major offensive against the moon of Torfan and destroys the criminal bases there, mostly populated by batarians.",
+    "entities": [
+      "Batarian",
+      "Earth_Systems_Alliance",
+      "Skyllian_Blitz",
+      "Torfan"
+    ]
+  },
+  {
+    "year": 2178,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The threat against human colonies from batarian extremists is curtailed.",
+    "entities": [
+      "Batarian",
+      "Human"
+    ]
+  },
+  {
+    "year": 2178,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The Alliance tracks several pirate FTL exit vectors over a period of six months using covert monitoring devices planted on Theshaca's moons, leading the Alliance Navy to eight major pirate anchorages.",
+    "entities": [
+      "Alliance_Navy",
+      "Earth_Systems_Alliance",
+      "FTL",
+      "Theshaca"
+    ]
+  },
+  {
+    "year": 2178,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Since the \"Theshaca Raids\", no ships from the Terminus Systems have entered the Hong system.",
+    "entities": [
+      "Hong",
+      "Terminus_Systems",
+      "Theshaca_Raids"
+    ]
+  },
+  {
+    "year": 2178,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "A lethal airborne virus sweeps through the quarian Migrant Fleet.",
+    "entities": [
+      "Migrant_Fleet",
+      "Quarian"
+    ]
+  },
+  {
+    "year": 2178,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Tali'Zorah nar Rayya's mother is among the casualties.",
+    "entities": [
+      "TaliZorah"
+    ]
+  },
+  {
+    "year": 2178,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "The Anhur Rebellions end with the abolitionist forces in power, and the reconstruction of Anhur commences.",
+    "entities": [
+      "Anhur",
+      "Anhur_Rebellions"
+    ]
+  },
+  {
+    "year": 2182,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Admiral Kahoku of the Systems Alliance begins investigating suspected Cerberus activities.",
+    "entities": [
+      "Admiral",
+      "Cerberus",
+      "Earth_Systems_Alliance",
+      "Kahoku"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Humans and turians collaborate on an engineering project co-sponsored by the Citadel Council: an experimental frigate with a prototype stealth system, the SSV Normandy.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council",
+      "Human",
+      "SSV_Normandy",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "David Anderson is given command of the ship, and Commander Shepard is assigned as executive officer.",
+    "entities": [
+      "Commander",
+      "Commander_Shepard",
+      "David_Anderson"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Council Era - Advent of Humanity",
+    "title": null,
+    "date_detail": null,
+    "text": "Jeff \"Joker\" Moreau is assigned as the pilot of the SSV Normandy.",
+    "entities": [
+      "Jeff_Moreau",
+      "SSV_Normandy"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "The human colony of Eden Prime is attacked by the geth, initiating a wider conflict between humans and geth known as the Eden Prime War.",
+    "entities": [
+      "Eden_Prime",
+      "Eden_Prime_War",
+      "Geth",
+      "Human"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "After exposing the involvement of rogue Spectre Saren Arterius in the attack, Commander Shepard and the crew of the SSV Normandy pursue Saren in his search for the Conduit, later revealed to be part of a larger plan orchestrated by the Reaper Sovereign to return its kind to the galaxy.",
+    "entities": [
+      "Commander",
+      "Commander_Shepard",
+      "Conduit",
+      "Reaper",
+      "SSV_Normandy",
+      "Saren_Arterius",
+      "Sovereign",
+      "Spectres"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "While Shepard follows Saren through the legendary Mu Relay to the Conduit, Sovereign and a geth fleet assault the Citadel.",
+    "entities": [
+      "Citadel",
+      "Commander_Shepard",
+      "Conduit",
+      "Geth",
+      "Mu_Relay",
+      "Saren_Arterius",
+      "Sovereign"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "Shepard defeats Saren and the Alliance Navy destroys Sovereign, preventing the release of the Reapers.",
+    "entities": [
+      "Alliance_Navy",
+      "Commander_Shepard",
+      "Reaper",
+      "Saren_Arterius",
+      "Sovereign"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "The Citadel Council is irrevocably changed by Shepard's decisions.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council",
+      "Commander_Shepard"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "Jacob Taylor and Miranda Lawson prevent an assassination attempt on the Citadel Council by batarian terrorists.",
+    "entities": [
+      "Batarian",
+      "Citadel",
+      "Citadel_Council",
+      "Jacob_Taylor",
+      "Miranda_Lawson"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "Aria T'Loak interrupts a meeting between Blue Suns mercenaries and the Collectors on Omega, and learns that the Collectors have a dangerous interest in humanity.",
+    "entities": [
+      "Aria_TLoak",
+      "Blue_Suns",
+      "Collector",
+      "Human",
+      "Omega"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "One month after the Battle of the Citadel, the SSV Normandy is attacked and destroyed by an unidentified assailant, resulting in the death of Commander Shepard.",
+    "entities": [
+      "Citadel",
+      "Commander",
+      "Commander_Shepard",
+      "SSV_Normandy"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "Later, the Systems Alliance officially declares Shepard \"killed in action\".",
+    "entities": [
+      "Commander_Shepard",
+      "Earth_Systems_Alliance"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "L4 biotic implants are developed.",
+    "entities": [
+      "Biotics"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "Two months after the Battle of the Citadel, galactic society is still in flux over the changes to the Council and kept unaware of the true nature of Sovereign, the Citadel, and the mass relays.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council",
+      "Mass_Relay",
+      "Sovereign"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "Cerberus pushes ahead with plans for both the Ascension Project and the quarian Migrant Fleet, but is foiled by the actions of Kahlee Sanders and Paul Grayson.",
+    "entities": [
+      "Ascension_Project",
+      "Cerberus",
+      "Kahlee_Sanders",
+      "Migrant_Fleet",
+      "Paul_Grayson",
+      "Quarian"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "After an attack by Cerberus forces, the Migrant Fleet changes its conservative policy, sending ships away from the Flotilla to look for new homeworlds or possibly a dormant Reaper.",
+    "entities": [
+      "Cerberus",
+      "Flotilla",
+      "Migrant_Fleet",
+      "Reaper"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "Commander Shepard's body is recovered by Blue Suns mercenaries for the Shadow Broker, who has been hired by the Collectors.",
+    "entities": [
+      "Blue_Suns",
+      "Collector",
+      "Commander",
+      "Commander_Shepard",
+      "Shadow_Broker"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "Cerberus eventually obtains the body with the help of Liara T'Soni and begins work on the Lazarus Project.",
+    "entities": [
+      "Cerberus",
+      "Lazarus_Project",
+      "Liara_TSoni"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "The Systems Alliance dispatches several special forces units to aid the colony of Fehl Prime, which is under attack by Blood Pack forces.",
+    "entities": [
+      "Blood_Pack",
+      "Earth_Systems_Alliance",
+      "Fehl_Prime"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "Most units are shot down before landing, but Delta Squad survives and defeats the Blood Pack.",
+    "entities": [
+      "Blood_Pack",
+      "Delta_Squad"
+    ]
+  },
+  {
+    "year": 2183,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": "The Eden Prime War",
+    "date_detail": null,
+    "text": "The Alliance assigns Delta Squad to guard the colony.",
+    "entities": [
+      "Delta_Squad",
+      "Earth_Systems_Alliance"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "January 1",
+    "text": "The Andromeda Initiative airs a recruitment ad titled \"Come With Us\".",
+    "entities": [
+      "Andromeda_Initiative",
+      "Come_With_Us"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "January 15",
+    "text": "Singapore Marketing Council debates on whether to air the Andromeda Initiative ad on their jurisdiction.",
+    "entities": [
+      "Andromeda_Initiative",
+      "Citadel_Council",
+      "Singapore_Marketing_Council"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "January 15",
+    "text": "Council members suspect peculiar behind-the-scenes happenings and so allow the ad on the pretext of getting their own people to find out the Initiative's secrets.",
+    "entities": [
+      "Andromeda_Initiative",
+      "Citadel_Council"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "June 1",
+    "text": "The Andromeda Initiative brainstorms another recruitment ad prospectively titled \"A New Future Awaits\".",
+    "entities": [
+      "Andromeda_Initiative",
+      "New_Future_Awaits"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The Eden Prime War comes to a close.",
+    "entities": [
+      "Eden_Prime_War"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Although most geth forces in Citadel space were destroyed in the Battle of the Citadel, holdouts yet remain.",
+    "entities": [
+      "Citadel",
+      "Geth"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The Alliance Navy reduces its patrols, relying instead on civilian ships to report any geth activity.",
+    "entities": [
+      "Alliance_Navy",
+      "Geth"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Raids are carried out against identified geth outposts, but the conflict is essentially over.",
+    "entities": [
+      "Geth"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The raloi of the planet Turvess launch their first space telescope and discover the asari cruiser Azedes in their system.",
+    "entities": [
+      "Asari",
+      "Azedes",
+      "Raloi",
+      "Turvess"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The asari make first contact with the raloi, who are formally welcomed into the galactic community the following year.",
+    "entities": [
+      "Asari",
+      "Raloi"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The biological weapon EHE, or \"exotic humanoid encephalopathy\", is used by the human terrorist organization Totenkopf in an attack on Gagarin Station.",
+    "entities": [
+      "EHE",
+      "Gagarin_Station",
+      "Human",
+      "Totenkopf"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The Alliance cruiser SSV Manila is deployed to monitor the asteroid Israfil, the supposed origin of the miroorganisms used to produce EHE.",
+    "entities": [
+      "EHE",
+      "Earth_Systems_Alliance",
+      "Israfil",
+      "SSV_Manila"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The freighter MSV Estevanico is attacked by Blood Pack mercenaries and crashes into the planet Zanethu.",
+    "entities": [
+      "Blood_Pack",
+      "MSV_Estevanico",
+      "Zanethu"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The Alliance crew on board were among the first humans to encounter the vorcha race.",
+    "entities": [
+      "Earth_Systems_Alliance",
+      "Human",
+      "Vorcha"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "A clone of Commander Shepard, developed by Cerberus for testing purposes alongside the original's under reconstruction body, is stolen by the deserter Rasa from the Lazarus Research Station.",
+    "entities": [
+      "Cerberus",
+      "Commander",
+      "Commander_Shepard",
+      "Lazarus_Research_Station",
+      "Rasa"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "L5 biotic implants are developed.",
+    "entities": [
+      "Biotics"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "July 25",
+    "text": "The Andromeda Initiative orientation briefing is shown to prospective candidates.",
+    "entities": [
+      "Andromeda_Initiative"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "December: The events of Mass Effect Andromeda: Initiation begin.",
+    "entities": [
+      "Initiation"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "December 27",
+    "text": "Khalisah al-Jilani enjoins people to watch her expose about the Andromeda Initiative in two days' time.",
+    "entities": [
+      "Andromeda_Initiative",
+      "Khalisah_al_Jilani"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "December 29",
+    "text": "Fehl Prime's disappearance becomes known to the general public although Collector involvement is still seen as a conspiracy theory.",
+    "entities": [
+      "Collector",
+      "Fehl_Prime",
+      "General"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "December 29",
+    "text": "Cora Harper's retrieval of Andromeda Initiative technology from HOME Group's Home Away space station is reported as a security breach by \"a rival corporation\".",
+    "entities": [
+      "Andromeda_Initiative",
+      "Cora_Harper",
+      "HOME_Group",
+      "Home_Away"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "December 29",
+    "text": "Al-Jilani Investigates: Andromeda...",
+    "entities": [
+      "Al_Jilani_Investigates",
+      "Andromeda"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "December 29",
+    "text": "Exposed! is recorded, its production notes indicating a focus on Alec Ryder's career.",
+    "entities": [
+      "Alec_Ryder"
+    ]
+  },
+  {
+    "year": 2184,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "December 31",
+    "text": "Armali Children's Almanac informs readers about differing human attitudes to new year festivities.",
+    "entities": [
+      "Almanac",
+      "Armali_Children",
+      "Human"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Fehl Prime is attacked by the Collectors after a Cerberus agent hoping to discover their intentions signals them.",
+    "entities": [
+      "Cerberus",
+      "Collector",
+      "Fehl_Prime"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Most of Delta Squad is lost during the battle for the colony, but they succeed in disabling the Collector ship.",
+    "entities": [
+      "Collector",
+      "Delta_Squad"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Delta Squad member James Vega chooses to rescue the asari Treeya, who possessed vital intel on the Collectors, leaving the colonists to die aboard the Collector ship when it crashes on the planet's surface.",
+    "entities": [
+      "Asari",
+      "Collector",
+      "Delta_Squad",
+      "James_Vega",
+      "Treeya"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The Collector Base",
+    "entities": [
+      "Collector",
+      "Collector_Base"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Commander Shepard is revived and tasked by the Illusive Man to investigate the mysterious disappearances of entire human colonies in the Terminus Systems.",
+    "entities": [
+      "Commander",
+      "Commander_Shepard",
+      "Human",
+      "Illusive_Man",
+      "Terminus_Systems"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Investigation of the attacked colony of Freedom's Progress reveals the enigmatic Collectors from beyond the Omega 4 Relay to be responsible for the disappearances.",
+    "entities": [
+      "Collector",
+      "Freedom",
+      "Omega",
+      "Omega_4_Relay",
+      "Progress"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "After assembling a capable team, Commander Shepard uses a captured Reaper IFF to safely traverse the relay and infiltrate the Collector base.",
+    "entities": [
+      "Collector",
+      "Commander",
+      "Commander_Shepard",
+      "Reaper",
+      "Reaper_IFF"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Shepard succeeds in eliminating the Collector threat, saving humanity throughout the galaxy from certain destruction.",
+    "entities": [
+      "Collector",
+      "Commander_Shepard",
+      "Human"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "February 10",
+    "text": "A dangerously close flyby of the comet CR1331 Kingu devastates the hanar colony of Belan.",
+    "entities": [
+      "Belan",
+      "CR",
+      "Hanar",
+      "Kingu"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "February 15",
+    "text": "Rumors of Commander Shepard's activities on Omega surface although downplayed as hallex-induced hallucinations.",
+    "entities": [
+      "Commander",
+      "Commander_Shepard",
+      "Omega"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "February 15",
+    "text": "Xenophobic Homeward Sol group implicated in bombing \"a shuttle\"; Nightside News in a Minute neglects to mention the shuttle was docked to the Andromeda Initiative's Ark Hyperion at the time.",
+    "entities": [
+      "Andromeda_Initiative",
+      "Ark_Hyperion",
+      "Homeward_Sol",
+      "Minute",
+      "Nightside_News"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "March 28",
+    "text": "A coalition of the corporations Binary Helix, Sonax Industries, and Guanghui Solutions invades the krogan and vorcha-populated world of Garvug.",
+    "entities": [
+      "Binary_Helix",
+      "Garvug",
+      "Guanghui_Solutions",
+      "Krogan",
+      "Sonax_Industries",
+      "Vorcha"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "April 28",
+    "text": "The Vallum Blast annihilates much of the capital city of the turian colony of Taetrus.",
+    "entities": [
+      "Taetrus",
+      "Turian",
+      "Vallum_Blast"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "April 28",
+    "text": "In retaliation, Taetrian colonial and Turian Hierarchy troops declare war on the separatist group responsible for the attack.",
+    "entities": [
+      "Taetrian",
+      "Turian",
+      "Turian_Hierarchy"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "August 11",
+    "text": "The Citadel Council makes first contact with a race of virtual aliens who offer advanced technology in exchange for help maintaining the supercomputers that run their civilization.",
+    "entities": [
+      "Citadel",
+      "Citadel_Council"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Liara T'Soni locates the Shadow Broker's concealed base on the planet Hagalaz.",
+    "entities": [
+      "Hagalaz",
+      "Liara_TSoni",
+      "Shadow_Broker"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The Shadow Broker, exposed as a yahg, is killed.",
+    "entities": [
+      "Shadow_Broker",
+      "Yahg"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Liara takes control of the Broker's organization, intending to use the Broker's vast information network to aid Shepard's fight against the Reapers.",
+    "entities": [
+      "Commander_Shepard",
+      "Reaper",
+      "Shadow_Broker"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "December 7",
+    "text": "Biologists discover the kirik, an insect-like species with biotic capabilities, on the arid world of Ekram.",
+    "entities": [
+      "Biotics",
+      "Ekram",
+      "Kirik"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "December 7",
+    "text": "After the kirik exhibit signs of intelligence, experts and officials debate whether or not the kirik should be uplifted.",
+    "entities": [
+      "Kirik"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Andromeda Initiative arks undergoing final preparations near Luna.",
+    "entities": [
+      "Andromeda_Initiative",
+      "Luna"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The Andromeda Initiative begins its journey to the Andromeda galaxy, with the first wave, made up of the Nexus, Ark Hyperion, Ark Leusinia, Ark Natanus, and Ark Paarchero, launching into dark space.",
+    "entities": [
+      "Andromeda",
+      "Andromeda_Initiative",
+      "Ark_Hyperion",
+      "Ark_Leusinia",
+      "Ark_Natanus",
+      "Ark_Paarchero",
+      "Nexus"
+    ]
+  },
+  {
+    "year": 2185,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "A second wave comprised of Ark Keelah Si'yah is expected to launch not long after.",
+    "entities": [
+      "Keelah_Siyah"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "January 12",
+    "text": "An asari exploration team discovers a lost human colony in the Alpha Centauri system.",
+    "entities": [
+      "Alpha_Centauri",
+      "Asari",
+      "Human"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "January 12",
+    "text": "The Systems Alliance links the colony to the forgotten Manswell Expedition of 2070 and establishes contact with the colonists.",
+    "entities": [
+      "Earth_Systems_Alliance",
+      "Manswell_Expedition"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "January 23",
+    "text": "SSV Budapest, an Alliance cruiser that sparked a diplomatic crisis between the Earth Systems Alliance and the Batarian Hegemony, withdraws from the Bahak system.",
+    "entities": [
+      "Bahak",
+      "Batarian",
+      "Batarian_Hegemony",
+      "Earth_Systems_Alliance",
+      "Hegemony",
+      "SSV_Budapest"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The Bahak system is subsequently destroyed following the explosion of its mass relay.",
+    "entities": [
+      "Bahak",
+      "Mass_Relay"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "An asteroid was sent to the relay in order to delay the Reapers' invasion.",
+    "entities": [
+      "Reaper"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Hundreds of thousands of batarians living on Aratoht are obliterated in the blast.",
+    "entities": [
+      "Aratoht",
+      "Batarian"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Six months prior to the start of the story, Systems Alliance hero Jon Grissom dies.",
+    "entities": [
+      "Earth_Systems_Alliance",
+      "Jon_Grissom"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Hundreds of dignitaries attend Grissom's funeral and a memorial plaque dedicated to him is placed in the Jon Grissom Academy.",
+    "entities": [
+      "Jon_Grissom",
+      "Jon_Grissom_Academy"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "After three years on the run, Paul Grayson is captured by Cerberus and implanted with Reaper technology.",
+    "entities": [
+      "Cerberus",
+      "Paul_Grayson",
+      "Reaper"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Kahlee Sanders and David Anderson attempt to rescue Grayson by persuading the Turian Hierarchy to raid several vital Cerberus installations, but are unaware Grayson's body is now under Reaper control.",
+    "entities": [
+      "Cerberus",
+      "David_Anderson",
+      "Kahlee_Sanders",
+      "Paul_Grayson",
+      "Reaper",
+      "Turian",
+      "Turian_Hierarchy"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Once free, the Reapers learn of the Ascension Project and use Grayson to single-handedly attack Grissom Academy, where he is finally killed by Anderson and Cerberus assassin Kai Leng.",
+    "entities": [
+      "Ascension_Project",
+      "Cerberus",
+      "David_Anderson",
+      "Jon_Grissom_Academy",
+      "Kai_Leng",
+      "Paul_Grayson",
+      "Reaper"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "In the aftermath, Anderson and Sanders decide to study Grayson's body to discover how to combat the Reapers.",
+    "entities": [
+      "David_Anderson",
+      "Kahlee_Sanders",
+      "Paul_Grayson",
+      "Reaper"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Councilor Udina asks Captain Bailey to investigate Executor Pallin, claiming that C-Sec has been compromised and is working against the Citadel Council.",
+    "entities": [
+      "Bailey",
+      "C_Sec",
+      "Captain",
+      "Citadel",
+      "Citadel_Council",
+      "Councilor",
+      "Donnel_Udina",
+      "Executor",
+      "Pallin"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The investigation results in Pallin's death and Bailey's promotion to the rank of Commander, but Bailey is left with reservations about Pallin's guilt.",
+    "entities": [
+      "Bailey",
+      "Commander",
+      "Pallin"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Gillian Grayson seeks revenge against Cerberus and the Illusive Man for the death of her father.",
+    "entities": [
+      "Cerberus",
+      "Gillian_Grayson",
+      "Illusive_Man"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "With the help of a faction of biotic supremacists, she captures Cerberus assassin Kai Leng to lure the Illusive Man out of hiding by holding Leng for ransom.",
+    "entities": [
+      "Biotics",
+      "Cerberus",
+      "Illusive_Man",
+      "Kai_Leng"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Her plan fails, however, and Leng kills her and escapes.",
+    "entities": [
+      "Gillian_Grayson",
+      "Kai_Leng"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Days after the destruction of Bahak, Councilor Udina publicly denies any Alliance involvement in the affair.",
+    "entities": [
+      "Bahak",
+      "Councilor",
+      "Donnel_Udina",
+      "Earth_Systems_Alliance"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Admiral Anderson travels to Omega to recruit Alliance marine James Vega to guard an incarcerated Commander Shepard.",
+    "entities": [
+      "Admiral",
+      "Commander",
+      "Commander_Shepard",
+      "David_Anderson",
+      "Earth_Systems_Alliance",
+      "James_Vega",
+      "Omega"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Aria T'Loak defends Omega from Adjutants unleashed by Cerberus.",
+    "entities": [
+      "Adjutants",
+      "Aria_TLoak",
+      "Cerberus",
+      "Omega"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The Adjutants distract Aria from Cerberus's true plan: to conquer Omega and maintain exclusive access to the Omega 4 Relay.",
+    "entities": [
+      "Adjutants",
+      "Aria_TLoak",
+      "Cerberus",
+      "Omega",
+      "Omega_4_Relay"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Aria realizes this and unites the disparate gangs and mercenaries of the station to repel the Cerberus invaders, but is outsmarted by Cerberus's General Oleg Petrovsky.",
+    "entities": [
+      "Aria_TLoak",
+      "Cerberus",
+      "General",
+      "Oleg_Petrovsky"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "When he threatens to destroy Omega, Aria accepts exile and Cerberus takes control of the station.",
+    "entities": [
+      "Aria_TLoak",
+      "Cerberus",
+      "Omega"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "When a Cerberus alien experimentation facility known as the Barn is attacked by turian forces, Randall Ezno, a Cerberus operative enhanced with biotic implants, learns the truth about the horrific nature of the experiments and discovers his own handler has been made a test subject.",
+    "entities": [
+      "Barn",
+      "Biotics",
+      "Cerberus",
+      "Randall_Ezno",
+      "Turian"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Randal turns against Cerberus and the Barn's Director, fights his way through the facility, and escapes.",
+    "entities": [
+      "Barn",
+      "Cerberus",
+      "Randall_Ezno"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "He provides the Systems Alliance with intel on his former employers and swears revenge on the Director.",
+    "entities": [
+      "Earth_Systems_Alliance",
+      "Randall_Ezno"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "September 21",
+    "text": "A massive influx of batarian ships in the Exodus Cluster reported by the Alliance News Network.",
+    "entities": [
+      "Alliance_News_Network",
+      "Batarian",
+      "Exodus_Cluster"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "September 21",
+    "text": "The newcomers claim their home systems are under attack from an as-yet unidentified hostile adversary.",
+    "entities": []
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "September 21",
+    "text": "Khar'shan is reported to be under bombardment and the Harsa relay blockaded.",
+    "entities": [
+      "Harsa"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Quarian ark Keelah Si'yah launches for the Andromeda galaxy shortly after the batarian planet Camala is invaded.",
+    "entities": [
+      "Andromeda",
+      "Batarian",
+      "Camala",
+      "Keelah_Siyah",
+      "Quarian"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "September 28",
+    "text": "Taetrus goes dark, the culprits confirmed to be the same forces behind the attack on the batarians.",
+    "entities": [
+      "Batarian",
+      "Taetrus"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "September 28",
+    "text": "Primarch Fedorian declares the Turian Hierarchy at war.",
+    "entities": [
+      "Fedorian",
+      "Primarch",
+      "Turian",
+      "Turian_Hierarchy"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "The Reaper invasion of Earth",
+    "entities": [
+      "Earth",
+      "Reaper"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Six months after the destruction of the Alpha Relay, the Reapers invade the galaxy through batarian space and attack Earth.",
+    "entities": [
+      "Alpha_Relay",
+      "Batarian",
+      "Earth",
+      "Reaper"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "Commander Shepard escapes and discovers a Prothean superweapon design on Mars that could end the Reapers' threat once and for all.",
+    "entities": [
+      "Commander",
+      "Commander_Shepard",
+      "Mars",
+      "Prothean",
+      "Reaper"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "October 5",
+    "text": "Hierarchy offensive to retake Taetrus reported as failed: four turian fleets dispatched to the Mactare relay, Reaper ships emerge from the Trebia relay in a push toward Palaven.",
+    "entities": [
+      "Mactare",
+      "Palaven",
+      "Reaper",
+      "Taetrus",
+      "Trebia",
+      "Turian",
+      "Turian_Hierarchy"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": "October 5",
+    "text": "Primarch Fedorian alerts the galaxy to prepare for spotty communications due to destruction of comm buoys during wartime.",
+    "entities": [
+      "Fedorian",
+      "Primarch"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "To build the Crucible and take back Earth, Commander Shepard and allies embark on a journey to unite the various races in the midst of a galaxy-wide war.",
+    "entities": [
+      "Commander",
+      "Commander_Shepard",
+      "Crucible",
+      "Earth"
+    ]
+  },
+  {
+    "year": 2186,
+    "year_end": null,
+    "approx": false,
+    "era": "Mass Effect",
+    "title": null,
+    "date_detail": null,
+    "text": "During the final confrontation with the Reapers over Earth, the Commander makes a decision that changes the galaxy forever.",
+    "entities": [
+      "Commander",
+      "Commander_Shepard",
+      "Earth",
+      "Reaper"
+    ]
+  },
+  {
+    "year": 2346,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "Sleepwalker Team Green-5 revives aboard the Keelah Si'yah 160 years after launch to perform customary maintenance checks and find no issues before returning to hibernation.",
+    "entities": [
+      "Keelah_Siyah",
+      "Sleepwalker_Team_Green_5"
+    ]
+  },
+  {
+    "year": 2419,
+    "year_end": null,
+    "approx": true,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "The final Remnant structures are built on Habitat 7 before the Scourge hits.",
+    "entities": [
+      "Habitat_7",
+      "Remnant",
+      "Scourge"
+    ]
+  },
+  {
+    "year": 2450,
+    "year_end": null,
+    "approx": true,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "The Scourge is unleashed in the Heleus Cluster, attacking all Remnant technology it can find.",
+    "entities": [
+      "Heleus_Cluster",
+      "Remnant",
+      "Scourge"
+    ]
+  },
+  {
+    "year": 2450,
+    "year_end": null,
+    "approx": true,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "Remnant vaults are deactivated, the golden worlds decline, and angaran civilization falls into a dark age.",
+    "entities": [
+      "Angara",
+      "Remnant"
+    ]
+  },
+  {
+    "year": 2486,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "Sleepwalker Team Blue-7 revives aboard the Keelah Si'yah 300 years after launch to perform customary maintenance checks and find no issues before returning to hibernation.",
+    "entities": [
+      "Keelah_Siyah",
+      "Sleepwalker_Team_Blue_7"
+    ]
+  },
+  {
+    "year": 2486,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "Given a projected Milky Way to Andromeda travel time of about 597 years, the Quorum and all Sleepwalker Teams aboard Keelah Si'yah briefly revive at the halfway point for operations review, customary maintenance checks, and a milestone celebration before returning to hibernation.",
+    "entities": [
+      "Andromeda",
+      "Keelah_Siyah",
+      "Milky_Way",
+      "Quorum",
+      "Sleepwalker_Teams"
+    ]
+  },
+  {
+    "year": 2600,
+    "year_end": null,
+    "approx": true,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "The Scourge stabilizes, and angaran civilization recovers.",
+    "entities": [
+      "Angara",
+      "Scourge"
+    ]
+  },
+  {
+    "year": 2600,
+    "year_end": null,
+    "approx": true,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "Five angaran worlds, including Havarl and Voeld, rediscover spaceflight and reunite, finding they have developed divergent cultures.",
+    "entities": [
+      "Angara",
+      "Havarl",
+      "Voeld"
+    ]
+  },
+  {
+    "year": 2600,
+    "year_end": null,
+    "approx": true,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "The angara discover and colonize Aya and Kadara.",
+    "entities": [
+      "Angara",
+      "Aya",
+      "Kadara"
+    ]
+  },
+  {
+    "year": 2603,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "150 years before outbreak, Keelah Si'yah's captain Qetsi'Olam vas Keelah Si'yah revives herself and activates a computer worm and the genetically engineered carrier virus later known as the Fortinbras Plague.",
+    "entities": [
+      "Captain",
+      "Fortinbras_Plague",
+      "Keelah_Siyah",
+      "QetsiOlam_vas_Keelah_Siyah"
+    ]
+  },
+  {
+    "year": 2603,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "The worm is directed to conceal the virus' gestation in drell subjects by any means, eventually taking over more and more systems as more and more infected among the Sleepwalker Teams roam around the ship.",
+    "entities": [
+      "Drell",
+      "Sleepwalker_Teams"
+    ]
+  },
+  {
+    "year": 2603,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "The captain would later revive herself every now and then to check on the pathogen's progress.",
+    "entities": [
+      "Captain"
+    ]
+  },
+  {
+    "year": 2636,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "Sleepwalker Team Yellow-9 revives aboard the Keelah Si'yah on transit day 164,250 to perform customary maintenance checks and due to the computer worm's suppression tactics find no issues before returning to hibernation.",
+    "entities": [
+      "Keelah_Siyah",
+      "Sleepwalker_Team_Yellow_9"
+    ]
+  },
+  {
+    "year": 2653,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "Sleepwalker Team Yellow-9 revives aboard the Keelah Si'yah 100 years before outbreak to perform customary maintenance checks and due to the computer worm's suppression tactics find no issues before returning to hibernation.",
+    "entities": [
+      "Keelah_Siyah",
+      "Sleepwalker_Team_Yellow_9"
+    ]
+  },
+  {
+    "year": 2703,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "Sleepwalker Team Yellow-9 revives aboard the Keelah Si'yah 50 years before outbreak to perform customary maintenance checks.",
+    "entities": [
+      "Keelah_Siyah",
+      "Sleepwalker_Team_Yellow_9"
+    ]
+  },
+  {
+    "year": 2703,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "Drell member Soval Raxios' prolonged contact with other races causes the carrier virus within her to jump species and infect other passengers when the Sleepwalkers return to their respective cryopod areas to hibernate again.",
+    "entities": [
+      "Drell",
+      "Sleepwalkers",
+      "Soval_Raxios"
+    ]
+  },
+  {
+    "year": 2709,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "A thin layer of sublimated water vapor containing telltale signs of necrosis begins to accumulate on drell cryopods aboard the Keelah Si'yah, signifying passengers have started dying while in cryosleep.",
+    "entities": [
+      "Drell",
+      "Keelah_Siyah"
+    ]
+  },
+  {
+    "year": 2709,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "The affected pods grow to 10.1% of the total drell population over the next few decades.",
+    "entities": [
+      "Drell"
+    ]
+  },
+  {
+    "year": 2744,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "The kett invade the Heleus Cluster of the Andromeda galaxy.",
+    "entities": [
+      "Andromeda",
+      "Heleus_Cluster",
+      "Kett"
+    ]
+  },
+  {
+    "year": 2744,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "While the main goal of the invasion is to exalt the angara into the Kett Empire, the invasion force's Archon becomes obsessed with learning how to control Remnant technology.",
+    "entities": [
+      "Angara",
+      "Archon",
+      "Kett",
+      "Kett_Empire",
+      "Remnant"
+    ]
+  },
+  {
+    "year": 2753,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "On transit day 207,113, or 567 years after launch, Sleepwalker Team Blue-7 is thawed out of cryostasis on board the Keelah Si'yah in order to deal with insidiously virulent software and biological contagions threatening all lives aboard the ark.",
+    "entities": [
+      "Keelah_Siyah",
+      "Sleepwalker_Team_Blue_7"
+    ]
+  },
+  {
+    "year": 2814,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "Evfra de Tershaav reorganizes the angara's many ineffective resistance movements against the kett into the Angaran Resistance, based out of Aya.",
+    "entities": [
+      "Angara",
+      "Angaran_Resistance",
+      "Aya",
+      "Kett",
+      "Tershaav"
+    ]
+  },
+  {
+    "year": 2816,
+    "year_end": null,
+    "approx": false,
+    "era": "Andromeda Bound",
+    "title": null,
+    "date_detail": null,
+    "text": "Jaal Ama Darav joins the Resistance along with an older sister.",
+    "entities": [
+      "Angaran_Resistance",
+      "Jaal_Ama_Darav"
+    ]
+  },
+  {
+    "year": 2818,
+    "year_end": null,
+    "approx": false,
+    "era": "New Frontiers",
+    "title": "Touchdown Andromeda",
+    "date_detail": null,
+    "text": "The Nexus arrives in the Heleus Cluster of the Andromeda galaxy after a 633 year journey through dark space.",
+    "entities": [
+      "Andromeda",
+      "Heleus_Cluster",
+      "Nexus"
+    ]
+  },
+  {
+    "year": 2819,
+    "year_end": null,
+    "approx": false,
+    "era": "New Frontiers",
+    "title": null,
+    "date_detail": null,
+    "text": "Hyperion beholds the Andromeda galaxy for the first time.",
+    "entities": [
+      "Andromeda",
+      "Ark_Hyperion"
+    ]
+  },
+  {
+    "year": 2819,
+    "year_end": null,
+    "approx": false,
+    "era": "New Frontiers",
+    "title": null,
+    "date_detail": null,
+    "text": "Ark Leusinia, Ark Natanus, and Ark Paarchero arrive in the Heleus Cluster separately.",
+    "entities": [
+      "Ark_Leusinia",
+      "Ark_Natanus",
+      "Ark_Paarchero",
+      "Heleus_Cluster"
+    ]
+  },
+  {
+    "year": 2819,
+    "year_end": null,
+    "approx": false,
+    "era": "New Frontiers",
+    "title": null,
+    "date_detail": null,
+    "text": "They are either attacked by the kett or damaged by the Scourge, preventing them from rendezvousing with the Nexus.",
+    "entities": [
+      "Ark_Leusinia",
+      "Kett",
+      "Nexus",
+      "Scourge"
+    ]
+  },
+  {
+    "year": 2819,
+    "year_end": null,
+    "approx": false,
+    "era": "New Frontiers",
+    "title": null,
+    "date_detail": null,
+    "text": "Ark Hyperion arrives in the Andromeda galaxy 14 months after the Nexus.",
+    "entities": [
+      "Andromeda",
+      "Ark_Hyperion",
+      "Nexus"
+    ]
+  }
+]
